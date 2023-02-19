@@ -1,4 +1,4 @@
-# CodeWars Python Solutions
+# Codewars Python Solutions
 This is a place where I put my CodeWars solutions.
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
