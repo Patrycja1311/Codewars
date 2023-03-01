@@ -11,3 +11,8 @@ This is a place where I put my Codewars solutions.
 | Katas | Subject | Codewars Link
 | --- | --- | ---|
 | [Shortest Word](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/shortest_word)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/python)|
+| [Sum a list but ignore any duplicates](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_a_list_but_ignore_any_duplicates)|`ALGORITHMS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2)|
+## Kata 5 kyu
+| Katas | Subject | Codewars Link
+| --- | --- | ---|
+| [Tic-Tac-Toe Checker](https://github.com/Patrycja1311/Codewars/tree/master/kata_5kyu/tic_tac_toe_checker)|`ARRAYS, ALGORITHMS`|[Link](https://www.codewars.com/kata/525caa5c1bf619d28c000335)|
