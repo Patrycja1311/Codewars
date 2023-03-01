@@ -12,6 +12,10 @@ This is a place where I put my Codewars solutions.
 | --- | --- | ---|
 | [Shortest Word](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/shortest_word)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/python)|
 | [Sum a list but ignore any duplicates](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_a_list_but_ignore_any_duplicates)|`ALGORITHMS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2)|
+## Kata 6 kyu
+| Katas | Subject | Codewars Link
+| --- | --- | ---|
+| [Jungerstein's Math Training Room: 1. How many zeros are at the end of n!! ?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/how_many_zeros_are_at_the_end_of_n)|`PUZZLES, MATHEMATICS, NUMBER, THEORY, DISCRETE MATHEMATICS`|[Link](https://www.codewars.com/kata/58cbfe2516341cce1e000001/train/python)|
 ## Kata 5 kyu
 | Katas | Subject | Codewars Link
 | --- | --- | ---|
