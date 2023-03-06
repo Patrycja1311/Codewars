@@ -12,6 +12,7 @@ This is a place where I put my Codewars solutions.
 | --- | --- | ---|
 | [Shortest Word](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/shortest_word)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/python)|
 | [Sum a list but ignore any duplicates](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_a_list_but_ignore_any_duplicates)|`ALGORITHMS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5993fb6c4f5d9f770c0000f2)|
+| [Distance from the average](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/distance_from_the_average)|`ARRAYS, LISTS, STATISTICS, FUNDAMENTAL, SDATA SCIENCE`|[Link](https://www.codewars.com/kata/568ff914fc7a40a18500005c/train/python)|
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
 | --- | --- | ---|
