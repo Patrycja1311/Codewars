@@ -15,6 +15,7 @@ This is a place where I put my Codewars solutions.
 | [Distance from the average](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/distance_from_the_average)|`ARRAYS, LISTS, STATISTICS, FUNDAMENTAL, SDATA SCIENCE`|[Link](https://www.codewars.com/kata/568ff914fc7a40a18500005c/train/python)|
 | [Pandas Series 101: Rename Columns](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/pandas_series_101_rename_columns)|`STRINGS, DATA FRAMES, FUNDAMENTALS, DATA SCIENCE`|[Link](https://www.codewars.com/kata/5e60cdcd01712200335bd676/train/python)|
 | [Keep the Order](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/keep_the_order)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/582aafca2d44a4a4560000e7/python)|
+| [Vowel one](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/vowel_one)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/580751a40b5a777a200000a1/python)|
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
 | --- | --- | ---|
