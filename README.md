@@ -8,6 +8,7 @@ This is a place where I put my Codewars solutions.
 | [Even or Odd](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/even_or_odd)|`FUNDAMENTALS, MATHEMATICS`|[Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/python)|
 | [Add Length](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/add_length)|`ARRAYS, LISTS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/559d2284b5bb6799e9000047)|
 | [Determine offspring sex based on genes XX and XY chromosomes](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/determine_offspring_sex_based_on_genes_XX_and_XY_chromosomes)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/56530b444e831334c0000020)|
+| [Localize The Barycenter of a Triangle](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/localize_the_barycenter_of_a_triangle)|`FUNDAMENTALS, MATHEMATICS, GEOMETRY`|[Link](https://www.codewars.com/kata/5601c5f6ba804403c7000004)|
 ## Kata 7 kyu
 | Katas | Subject | Codewars Link
 | --- | --- | ---|
