@@ -24,6 +24,7 @@ This is a place where I put my Codewars solutions.
 | [Greet Me](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/greet_me)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/535474308bb336c9980006f2/python)|
 | [Disemvowel Trolls](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20disemvowel_trolls)|`STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/52fba66badcd10859f00097e/python)|
 | [You're a square!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/you're_a%20_square)|`FUNDAMENTALS, MATHEMATICS`|[Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/python)|
+| [Exes and Ohs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/exes_and_ohs)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/55908aad6620c066bc00002a/python)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
