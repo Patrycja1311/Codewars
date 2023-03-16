@@ -23,6 +23,7 @@ This is a place where I put my Codewars solutions.
 | [Vowel one](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/vowel_one)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/580751a40b5a777a200000a1/python)|
 | [Greet Me](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/greet_me)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/535474308bb336c9980006f2/python)|
 | [Disemvowel Trolls](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20disemvowel_trolls)|`STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/52fba66badcd10859f00097e/python)|
+| [You're a square!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/you're_a%20_square)|`FUNDAMENTALS, MATHEMATICS`|[Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/python)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
