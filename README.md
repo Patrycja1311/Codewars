@@ -26,6 +26,7 @@ This is a place where I put my Codewars solutions.
 | [You're a square!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/you're_a%20_square)|`FUNDAMENTALS, MATHEMATICS`|[Link](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/python)|
 | [Exes and Ohs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/exes_and_ohs)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/55908aad6620c066bc00002a/python)|
 | [Jaden Casing Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/jaden_casing_strings)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6/python)|
+| [List Filtering](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/list_filtering)|`LISTS, FILTERING, DATA STRUCTURES, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/python)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
