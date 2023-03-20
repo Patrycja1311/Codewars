@@ -27,6 +27,7 @@ This is a place where I put my Codewars solutions.
 | [Exes and Ohs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/exes_and_ohs)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/55908aad6620c066bc00002a/python)|
 | [Jaden Casing Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/jaden_casing_strings)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6/python)|
 | [List Filtering](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/list_filtering)|`LISTS, FILTERING, DATA STRUCTURES, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/python)|
+| [Get the Middle Character](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/get_the_middle_character)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/56747fd5cb988479af000028/python)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
