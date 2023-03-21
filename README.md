@@ -11,6 +11,7 @@ This is a place where I put my Codewars solutions.
 | [Determine offspring sex based on genes XX and XY chromosomes](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/determine_offspring_sex_based_on_genes_XX_and_XY_chromosomes)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/56530b444e831334c0000020)|
 | [Localize The Barycenter of a Triangle](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/localize_the_barycenter_of_a_triangle)|`FUNDAMENTALS, MATHEMATICS, GEOMETRY`|[Link](https://www.codewars.com/kata/5601c5f6ba804403c7000004)|
 | [Cat years, Dog years](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/cat_years_dog_years)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)|
+| [Multiplication table for number](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/multiplication_table_for_number)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/python)|
 
 ## Kata 7 kyu
 | Katas | Subject | Codewars Link
