@@ -31,6 +31,7 @@ This is a place where I put my Codewars solutions.
 | [List Filtering](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/list_filtering)|`LISTS, FILTERING, DATA STRUCTURES, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/python)|
 | [Get the Middle Character](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/get_the_middle_character)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/56747fd5cb988479af000028/python)|
 | [Leap Years](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/leap_years)|`DATE TIME, ALGORITHMS`|[Link](https://www.codewars.com/kata/526c7363236867513f0005ca)|
+| [Friend or Foe?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/friend_or_foe)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/55b42574ff091733d900002f)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
