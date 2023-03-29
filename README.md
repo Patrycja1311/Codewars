@@ -40,6 +40,7 @@ This is a place where I put my Codewars solutions.
 | --- | --- | ---|
 | [Jungerstein's Math Training Room: 1. How many zeros are at the end of n!! ?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/how_many_zeros_are_at_the_end_of_n)|`PUZZLES, MATHEMATICS, NUMBER, THEORY, DISCRETE MATHEMATICS`|[Link](https://www.codewars.com/kata/58cbfe2516341cce1e000001/train/python)|
 | [Multiples of 3 or 5](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/multiples_of_3_or_5)|`MATHEMATICS, ALGORITHMS`|[Link](https://www.codewars.com/kata/514b92a657cdc65150000006)|
+| [Array.diff](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/array_diff)|`ARRAYS, FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009)|
 
 ## Kata 5 kyu
 | Katas | Subject | Codewars Link
