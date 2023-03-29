@@ -33,6 +33,7 @@ This is a place where I put my Codewars solutions.
 | [Leap Years](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/leap_years)|`DATE TIME, ALGORITHMS`|[Link](https://www.codewars.com/kata/526c7363236867513f0005ca)|
 | [Friend or Foe?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/friend_or_foe)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/55b42574ff091733d900002f)|
 | [Complementary DNA](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/complementary_DNA)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)|
+| [Breaking chocolate problem](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/breaking_chocolate_problem)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/534ea96ebb17181947000ada)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
