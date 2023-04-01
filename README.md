@@ -34,6 +34,7 @@ This is a place where I put my Codewars solutions.
 | [Friend or Foe?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/friend_or_foe)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/55b42574ff091733d900002f)|
 | [Complementary DNA](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/complementary_DNA)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)|
 | [Breaking chocolate problem](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/breaking_chocolate_problem)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/534ea96ebb17181947000ada)|
+| [Is this a triangle?](https://github.com/Patrycja1311/Codewars/commit/55e127c611e88dcfcaac92b603e81c45158a55ea)|`MATHEMATICS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/56606694ec01347ce800001b/python)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
