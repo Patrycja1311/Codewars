@@ -35,6 +35,7 @@ This is a place where I put my Codewars solutions.
 | [Complementary DNA](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/complementary_DNA)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)|
 | [Breaking chocolate problem](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/breaking_chocolate_problem)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/534ea96ebb17181947000ada)|
 | [Is this a triangle?](https://github.com/Patrycja1311/Codewars/commit/55e127c611e88dcfcaac92b603e81c45158a55ea)|`MATHEMATICS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/56606694ec01347ce800001b/python)|
+| [Find the unique number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_unique_number)|`FUNDAMENTALS, ALGORITHMS, ARRAYS`|[Link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/python)|
 
 ## Kata 6 kyu
 | Katas | Subject | Codewars Link
