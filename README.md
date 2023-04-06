@@ -38,6 +38,7 @@ This is a place where I put my Codewars solutions.
 | [Find the unique number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_unique_number)|`FUNDAMENTALS, ALGORITHMS, ARRAYS`|[Link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/python)|
 | [Beginner Series #3 Sum of Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/beginner_series_3_sum_of_numbers)|`FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/55f2b110f61eb01779000053/python)|
 | [Sum of two lowest positive integers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_two_lowest_positive_integers)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/558fc85d8fd1938afb000014)|
+| [Descending Order](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/descending_order)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/python)|
 
 
 ## Kata 6 kyu
