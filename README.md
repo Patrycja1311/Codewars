@@ -40,6 +40,7 @@ This is a place where I put my Codewars solutions.
 | [Sum of two lowest positive integers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_two_lowest_positive_integers)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/558fc85d8fd1938afb000014)|
 | [Descending Order](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/descending_order)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/python)|
 | [Find the stray number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_stray_number)|`FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/57f609022f4d534f05000024)|
+| [Bumps in the Road](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/bumps_in_the_road)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/57ed30dde7728215300005fa/python)|
 
 
 ## Kata 6 kyu
