@@ -42,6 +42,7 @@ This is a place where I put my Codewars solutions.
 | [Find the stray number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_stray_number)|`FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/57f609022f4d534f05000024)|
 | [Bumps in the Road](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/bumps_in_the_road)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/57ed30dde7728215300005fa/python)|
 | [Two to One](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/two_to_one)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/python)|
+| [Digit*Digit](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/digit_digit)|`MATHEMATICS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/546e2562b03326a88e000020/python)|
 
 
 ## Kata 6 kyu
