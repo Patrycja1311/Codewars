@@ -12,6 +12,7 @@ This is a place where I put my Codewars solutions.
 | [Localize The Barycenter of a Triangle](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/localize_the_barycenter_of_a_triangle)|`FUNDAMENTALS, MATHEMATICS, GEOMETRY`|[Link](https://www.codewars.com/kata/5601c5f6ba804403c7000004)|
 | [Cat years, Dog years](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/cat_years_dog_years)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)|
 | [Multiplication table for number](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/multiplication_table_for_number)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/python)|
+| [Find the odd int](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/find_the_odd_int)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/python)|
 
 ## Kata 7 kyu
 | Katas | Subject | Codewars Link
