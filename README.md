@@ -53,6 +53,7 @@ This is a place where I put my Codewars solutions.
 | [Array.diff](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/array_diff)|`ARRAYS, FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009)|
 | [Create Phone Number](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/create_phone_number)|`ARRAYS, STRINGS, REGULAR EXPRESSIONS, ALGORITHMS`|[Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/python)|
 | [Replace With Alphabet Position](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/replace_with_alphabet_position)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da)|
+| [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_number_and_sum_its_digits_raised_to_the_consecutive_powers_and_Eureka_)|`FUNDAMENTALS, MATHEMATICS`|[Link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/python)|
 
 
 ## Kata 5 kyu
