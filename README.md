@@ -44,6 +44,7 @@ This is a place where I put my Codewars solutions.
 | [Bumps in the Road](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/bumps_in_the_road)|`FUNDAMENTALS, STRINGS`|[Link](https://www.codewars.com/kata/57ed30dde7728215300005fa/python)|
 | [Two to One](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/two_to_one)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/python)|
 | [Digit*Digit](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/digit_digit)|`MATHEMATICS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/546e2562b03326a88e000020/python)|
+| [Remove the minimum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/remove_the_minimum)|`LISTS, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/python)|
 
 
 ## Kata 6 kyu
