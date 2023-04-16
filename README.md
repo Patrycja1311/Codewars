@@ -46,6 +46,7 @@ This is a place where I put my Codewars solutions.
 | [Digit*Digit](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/digit_digit)|`MATHEMATICS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/546e2562b03326a88e000020/python)|
 | [Remove the minimum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/remove_the_minimum)|`LISTS, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/python)|
 | [Power of two](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/power_of_two)|`MATHEMATICS, ALGORITHMS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/534d0a229345375d520006a0)|
+| [Credit Card Mask](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/credit_card_mask)|`STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc/python)|
 
 
 ## Kata 6 kyu
