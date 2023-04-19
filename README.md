@@ -49,6 +49,7 @@ This is a place where I put my Codewars solutions.
 | [Credit Card Mask](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/credit_card_mask)|`STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc/python)|
 | [Categorize New Member](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/categorize_new_member)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/python)|
 | [Binary Addition](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/binary_addition)|`BINARY, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/551f37452ff852b7bd000139/python)|
+| [Sort array by string length](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_array_by_string_length)|`SORTING, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/python)|
 
 
 ## Kata 6 kyu
