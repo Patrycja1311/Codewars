@@ -62,6 +62,7 @@ This is a place where I put my Codewars solutions.
 | [Replace With Alphabet Position](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/replace_with_alphabet_position)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da)|
 | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_number_and_sum_its_digits_raised_to_the_consecutive_powers_and_Eureka_)|`FUNDAMENTALS, MATHEMATICS`|[Link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/python)|
 | [Bit Counting](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/bit_counting)|`BITS, ALGORITHMS`|[Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/python)|
+| [Who likes it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/who_likes_it)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python)|
 
 
 ## Kata 5 kyu
