@@ -64,6 +64,7 @@ This is a place where I put my Codewars solutions.
 | [Bit Counting](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/bit_counting)|`BITS, ALGORITHMS`|[Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/python)|
 | [Who likes it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/who_likes_it)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python)|
 | [Who likes it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/persistent_bugger)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)|
+| [Find The Parity Outlier](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/find_the_parity_outlier)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python)|
 
 
 ## Kata 5 kyu
