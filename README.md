@@ -65,6 +65,7 @@ This is a place where I put my Codewars solutions.
 | [Who likes it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/who_likes_it)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python)|
 | [Who likes it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/persistent_bugger)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)|
 | [Find The Parity Outlier](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/find_the_parity_outlier)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python)|
+| [Sum of Digits / Digital Root](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/sum_of%20_digits_digital_root)|`MATHEMATICS, ALGORITHMS`|[Link](https://www.codewars.com/kata/541c8630095125aba6000c00/train/python)|
 
 
 ## Kata 5 kyu
