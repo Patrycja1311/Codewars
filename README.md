@@ -67,6 +67,7 @@ This is a place where I put my Codewars solutions.
 | [Find The Parity Outlier](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/find_the_parity_outlier)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python)|
 | [Sum of Digits / Digital Root](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/sum_of%20_digits_digital_root)|`MATHEMATICS, ALGORITHMS`|[Link](https://www.codewars.com/kata/541c8630095125aba6000c00/train/python)|
 | [Stop gninnipS My sdroW!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/stop_gninnips_my_sdrow)|`STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python)|
+| [Convert string to camel case](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/convert_string_to_camel_case)|`REGULAR EXPRESSIONS, ALGORITHMS, STRINGS`|[Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/python)|
 
 
 ## Kata 5 kyu
