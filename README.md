@@ -27,6 +27,7 @@ This is a place where I put my Codewars solutions.
 | [Stop gninnipS My sdroW!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/stop_gninnips_my_sdrow)|`STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python)|
 | [Convert string to camel case](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/convert_string_to_camel_case)|`REGULAR EXPRESSIONS, ALGORITHMS, STRINGS`|[Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/python)|
 | [Does my number look big in this?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/does_my_number_look_big_in_this)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python)|
+| [Equal Sides Of An Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/equal_sides_of_an_array)|`ALGORITHMS, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/python)|
 
 
 
