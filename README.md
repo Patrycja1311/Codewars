@@ -29,6 +29,7 @@ This is a place where I put my Codewars solutions.
 | [Does my number look big in this?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/does_my_number_look_big_in_this)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python)|
 | [Equal Sides Of An Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/equal_sides_of_an_array)|`ALGORITHMS, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/python)|
 | [Split Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/split_strings)|`REGULAR EXPRESSIONS, STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python)|
+| [Build Tower](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/build_tower)|`STRINGS, ASCII ART, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/python)|
 
 
 ## Kata 7 kyu
