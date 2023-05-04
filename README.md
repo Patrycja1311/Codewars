@@ -31,6 +31,7 @@ This is a place where I put my Codewars solutions.
 | [Split Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/split_strings)|`REGULAR EXPRESSIONS, STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python)|
 | [Build Tower](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/build_tower)|`STRINGS, ASCII ART, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/python)|
 | [Write Number in Expanded Form](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/write_number_in_expanded_form)|`STRINGS, MATHEMATICS, ALGORITHMS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245/python)|
+| [Break camelCase](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/break_camelCase)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5208f99aee097e6552000148/python)|
 
 
 ## Kata 7 kyu
