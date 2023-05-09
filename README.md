@@ -72,6 +72,7 @@ This is a place where I put my Codewars solutions.
 | [Binary Addition](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/binary_addition)|`BINARY, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/551f37452ff852b7bd000139/python)|
 | [Sort array by string length](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_array_by_string_length)|`SORTING, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/python)|
 | [Build a square](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/build_a_square)|`FUNDAMENTALS, ASCII ART`|[Link](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)|
+| [Ones and Zeros](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ones_and_zeros)|`FUNDAMENTALS, ARRAYS`|[Link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/python)|
 
 
 ## Kata 8 kyu
