@@ -73,6 +73,7 @@ This is a place where I put my Codewars solutions.
 | [Sort array by string length](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_array_by_string_length)|`SORTING, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/python)|
 | [Build a square](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/build_a_square)|`FUNDAMENTALS, ASCII ART`|[Link](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)|
 | [Ones and Zeros](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ones_and_zeros)|`FUNDAMENTALS, ARRAYS`|[Link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/python)|
+| [Make acronym](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/make_acronym)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57a60bad72292d3e93000a5a/python)|
 
 
 ## Kata 8 kyu
