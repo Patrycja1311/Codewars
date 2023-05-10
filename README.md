@@ -33,6 +33,7 @@ This is a place where I put my Codewars solutions.
 | [Write Number in Expanded Form](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/write_number_in_expanded_form)|`STRINGS, MATHEMATICS, ALGORITHMS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245/python)|
 | [Break camelCase](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/break_camelCase)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5208f99aee097e6552000148/python)|
 | [Take a Ten Minutes Walk](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_ten_minutes_walk)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/python)|
+| [Count characters in your string](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/count_characters_in_your_string)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/52efefcbcdf57161d4000091)|
 
 
 ## Kata 7 kyu
