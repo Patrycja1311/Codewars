@@ -76,6 +76,7 @@ This is a place where I put my Codewars solutions.
 | [Build a square](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/build_a_square)|`FUNDAMENTALS, ASCII ART`|[Link](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)|
 | [Ones and Zeros](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ones_and_zeros)|`FUNDAMENTALS, ARRAYS`|[Link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/python)|
 | [Make acronym](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/make_acronym)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57a60bad72292d3e93000a5a/python)|
+|[Find the middle element](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_middle_element)|`Arrays, Fundamentals` |[Link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)
 
 
 ## Kata 8 kyu
