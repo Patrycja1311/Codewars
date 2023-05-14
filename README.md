@@ -35,6 +35,7 @@ This is a place where I put my Codewars solutions.
 | [Take a Ten Minutes Walk](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_ten_minutes_walk)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/python)|
 | [Count characters in your string](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/count_characters_in_your_string)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/52efefcbcdf57161d4000091)|
 | [Two Sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/two_sum)|`ARRAYS, FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/52c31f8e6605bcc646000082/python)|
+| [Detect Pangram](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/detect_pangram)| `Strings, Data Structures, Fundamentals` |[Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 
 
 ## Kata 7 kyu
