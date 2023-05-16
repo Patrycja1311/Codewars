@@ -79,6 +79,7 @@ This is a place where I put my Codewars solutions.
 | [Make acronym](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/make_acronym)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57a60bad72292d3e93000a5a/python)|
 |[Find the middle element](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_middle_element)|`Arrays, Fundamentals` |[Link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)
 |[Reverse words](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/reverse_words)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+|[String ends with?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/string_ends_with)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 
 
 ## Kata 8 kyu
