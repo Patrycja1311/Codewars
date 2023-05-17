@@ -81,6 +81,7 @@ This is a place where I put my Codewars solutions.
 |[Reverse words](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/reverse_words)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 |[String ends with?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/string_ends_with)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 |[Regex validate PIN code](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/regex_validate_pin_code)|`REGULAR EXPRESSIONS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+|[Find the capitals](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_capitals)|`STRINGS, ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/539ee3b6757843632d00026b)
 
 
 ## Kata 8 kyu
