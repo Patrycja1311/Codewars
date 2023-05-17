@@ -80,6 +80,7 @@ This is a place where I put my Codewars solutions.
 |[Find the middle element](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_middle_element)|`Arrays, Fundamentals` |[Link](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/)
 |[Reverse words](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/reverse_words)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 |[String ends with?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/string_ends_with)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+|[Regex validate PIN code](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/regex_validate_pin_code)|`REGULAR EXPRESSIONS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 
 
 ## Kata 8 kyu
