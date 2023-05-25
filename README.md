@@ -85,6 +85,7 @@ This is a place where I put my Codewars solutions.
 |[Vowel Count](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/vowel_count)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3/)
 |[Heron's formula](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/heron's_formula)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/57aa218e72292d98d500240f/)
 |[Running out of space](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20running_out_of_space)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56576f82ab83ee8268000059/python)
+|[Length and two values.](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/length_and_two_values)|`FUNDAMENTALS, ARRAYS` |[Link](https://www.codewars.com/kata/62a611067274990047f431a8/python)
 
 
 ## Kata 8 kyu
