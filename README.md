@@ -87,6 +87,7 @@ This is a place where I put my Codewars solutions.
 |[Running out of space](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20running_out_of_space)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56576f82ab83ee8268000059/python)
 |[Length and two values.](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/length_and_two_values)|`FUNDAMENTALS, ARRAYS` |[Link](https://www.codewars.com/kata/62a611067274990047f431a8/python)
 |[Latin Squares](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20latin_squares)|`ARRAYS` |[Link](https://www.codewars.com/kata/645fb55ecf8c290031b779ef/python)
+|[Testing 1-2-3](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/testing_1_2_3)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 
 
 ## Kata 8 kyu
