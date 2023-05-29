@@ -89,6 +89,7 @@ This is a place where I put my Codewars solutions.
 |[Latin Squares](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20latin_squares)|`ARRAYS` |[Link](https://www.codewars.com/kata/645fb55ecf8c290031b779ef/python)
 |[Testing 1-2-3](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/testing_1_2_3)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 |[Highest and Lowest](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/highest_and_lowest)|`FUNDAMENTALS, STRINGS` |[Link](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+|[Factorial](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/factorial)|`ALGORITHMS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/python)
 
 
 ## Kata 8 kyu
