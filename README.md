@@ -93,6 +93,7 @@ This is a place where I put my Codewars solutions.
 |[Sum of numbers from 0 to N](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20sum_of_numbers_from_0_to_N)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/python)
 |[Adding Arrays](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/adding_arrays)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/59778cb1b061e877c50000cc/python)
 |[Flatten and sort an array](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/flatten_and_sort_an_array)|`ARRAYS, SORTING, FUNDAMENTAL` |[Link](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/python)
+|[Find the divisors!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_divisors)|`MATHEMATICS, ALGORITHMS` |[Link](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
 
 
 ## Kata 8 kyu
