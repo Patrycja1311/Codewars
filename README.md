@@ -95,6 +95,7 @@ This is a place where I put my Codewars solutions.
 |[Flatten and sort an array](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/flatten_and_sort_an_array)|`ARRAYS, SORTING, FUNDAMENTAL` |[Link](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/python)
 |[Find the divisors!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_divisors)|`MATHEMATICS, ALGORITHMS` |[Link](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
 |[The highest profit wins!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_highest_profit_winsa)|`LISTS, ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/559590633066759614000063/python)
+|[Mumbling](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/mumbling)|`FUNDAMENTALS, STRINGS, PUZZLES` |[Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/python)
 
 
 ## Kata 8 kyu
