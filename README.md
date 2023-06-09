@@ -97,6 +97,7 @@ This is a place where I put my Codewars solutions.
 |[The highest profit wins!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_highest_profit_winsa)|`LISTS, ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/559590633066759614000063/python)
 |[Mumbling](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/mumbling)|`FUNDAMENTALS, STRINGS, PUZZLES` |[Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/python)
 |[Printer Errors](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/printer_errors)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56541980fa08ab47a0000040/python)
+|[Decreasing Inputs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/decreasing_inputs)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/555de49a04b7d1c13c00000e/python)
 
 
 ## Kata 8 kyu
