@@ -114,3 +114,4 @@ This is a place where I put my Codewars solutions.
 | [Find the odd int](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/find_the_odd_int)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/python)|
 | [Find the Integral](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_the_Integral)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/59811fd8a070625d4c000013/python)|
 | [Basic Mathematical Operations](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/basic_mathematical_operations)|`MATHEMATICS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/python)|
+| [Sum Arrays](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_arrays)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/python)|
