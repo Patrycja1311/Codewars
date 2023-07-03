@@ -116,3 +116,4 @@ This is a place where I put my Codewars solutions.
 | [Basic Mathematical Operations](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/basic_mathematical_operations)|`MATHEMATICS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/python)|
 | [Sum Arrays](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_arrays)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/python)|
 | [Sum of Multiples](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_of_multiples)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57241e0f440cd279b5000829/python)|
+| [Count by X](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/count_by_x)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/python)|
