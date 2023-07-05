@@ -118,3 +118,4 @@ This is a place where I put my Codewars solutions.
 | [Sum of Multiples](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_of_multiples)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57241e0f440cd279b5000829/python)|
 | [Count by X](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/count_by_x)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/python)|
 | [Find the position!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_the_position)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5808e2006b65bff35500008f/python)|
+| [Grasshopper - Debug sayHello](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/grasshopper_debug_sayHello)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f/python)|
