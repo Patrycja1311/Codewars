@@ -120,3 +120,4 @@ This is a place where I put my Codewars solutions.
 | [Find the position!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_the_position)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5808e2006b65bff35500008f/python)|
 | [Grasshopper - Debug sayHello](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/grasshopper_debug_sayHello)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5625618b1fe21ab49f00001f/python)|
 | [L1: Set Alarm](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/l1_set_alarm)|`FUNDAMENTALS, LOGIC`|[Link](https://www.codewars.com/kata/568dcc3c7f12767a62000038/python)|
+| [No zeros for heros](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/no_zeros_for_heros)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/570a6a46455d08ff8d001002/python)|
