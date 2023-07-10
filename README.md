@@ -98,6 +98,7 @@ This is a place where I put my Codewars solutions.
 |[Mumbling](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/mumbling)|`FUNDAMENTALS, STRINGS, PUZZLES` |[Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/python)
 |[Printer Errors](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/printer_errors)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56541980fa08ab47a0000040/python)
 |[Decreasing Inputs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/decreasing_inputs)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/555de49a04b7d1c13c00000e/python)
+|[Count up the points for the 7 Wonders board game! Easy version](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/count_up_the_points_for_the_7_wonders_board_game)|`PUZZLES` |[Link](https://www.codewars.com/kata/5adadcb36edb07df5600092e/python)
 
 
 ## Kata 8 kyu
