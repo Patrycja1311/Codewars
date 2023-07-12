@@ -100,7 +100,7 @@ This is a place where I put my Codewars solutions.
 |[Decreasing Inputs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/decreasing_inputs)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/555de49a04b7d1c13c00000e/python)
 |[Count up the points for the 7 Wonders board game! Easy version](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/count_up_the_points_for_the_7_wonders_board_game)|`PUZZLES` |[Link](https://www.codewars.com/kata/5adadcb36edb07df5600092e/python)
 |[Find array](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_array)|`PUZZLES` |[Link](https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/python)
-
+|[Simple Fun #270: Evil Code Medal](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_fun_270_evil_code_medal)|`PUZZLES` |[Link](https://www.codewars.com/kata/5915686ed2563aa6650000ab/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
