@@ -103,6 +103,7 @@ This is a place where I put my Codewars solutions.
 |[Simple Fun #270: Evil Code Medal](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_fun_270_evil_code_medal)|`PUZZLES` |[Link](https://www.codewars.com/kata/5915686ed2563aa6650000ab/python)
 |[Sum of the first nth term of Series](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_the_first_nth_term_of_series)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/555eded1ad94b00403000071/python)
 |[Converting 12-hour time to 24-hour time](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/converting_12_hour_time_to_24_hour_time)|`DATE TIME, ALGORITHMS` |[Link](https://www.codewars.com/kata/59b0a6da44a4b7080300008a/python)
+|[Volume of a cup](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/volume_of_a_cup)|`GEOMETRY, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56a13035eb55c8436a000041/python)
 
 
 ## Kata 8 kyu
