@@ -105,6 +105,7 @@ This is a place where I put my Codewars solutions.
 |[Converting 12-hour time to 24-hour time](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/converting_12_hour_time_to_24_hour_time)|`DATE TIME, ALGORITHMS` |[Link](https://www.codewars.com/kata/59b0a6da44a4b7080300008a/python)
 |[Volume of a cup](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/volume_of_a_cup)|`GEOMETRY, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56a13035eb55c8436a000041/python)
 |[Help Suzuki count his vegetables....](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b)|`FUNDAMENTALS` |[Link](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/help_suzuki_count_his_vegetables)
+|[Visible Dots On a Die](https://www.codewars.com/kata/5a39724945ddce2223000800/python)|`ALGORITHMS` |[Link](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/visible_dots_on_a_die)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
