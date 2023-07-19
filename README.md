@@ -107,6 +107,7 @@ This is a place where I put my Codewars solutions.
 |[Help Suzuki count his vegetables....](https://www.codewars.com/kata/56ff1667cc08cacf4b00171b)|`FUNDAMENTALS` |[Link](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/help_suzuki_count_his_vegetables)
 |[Visible Dots On a Die](https://www.codewars.com/kata/5a39724945ddce2223000800/python)|`ALGORITHMS` |[Link](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/visible_dots_on_a_die)
 |[Turkish Numbers, 0-99](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/turkish_numbers_0_99)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5ebd53ea50d0680031190b96/python)
+|[Vampire Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/vampire_numbers)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54d418bd099d650fa000032d/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
