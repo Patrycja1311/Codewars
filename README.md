@@ -133,3 +133,4 @@ This is a place where I put my Codewars solutions.
 | [No zeros for heros](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/no_zeros_for_heros)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/570a6a46455d08ff8d001002/python)|
 | [Draw stairs](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/draw_stairs)|`ASCII ART, ALGORITHMS`|[Link](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/python)|
 | [Remove duplicates from list](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/remove_duplicates_from_list)|`FUNDAMENTALS, ARRAYS, LISTS`|[Link](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/python)|
+| [Triple Trouble](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/%20triple_trouble)|`PUZZLES`|[Link](https://www.codewars.com/kata/5704aea738428f4d30000914/python)|
