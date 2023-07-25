@@ -109,6 +109,7 @@ This is a place where I put my Codewars solutions.
 |[Turkish Numbers, 0-99](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/turkish_numbers_0_99)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5ebd53ea50d0680031190b96/python)
 |[Vampire Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/vampire_numbers)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54d418bd099d650fa000032d/python)
 |[Alphabet symmetry](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/alphabet_symmetry)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/python)
+|[Two numbers are positive](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/two_numbers_are_positive)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/602db3215c22df000e8544f0/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
