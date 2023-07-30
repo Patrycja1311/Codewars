@@ -112,6 +112,7 @@ This is a place where I put my Codewars solutions.
 |[Two numbers are positive](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/two_numbers_are_positive)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/602db3215c22df000e8544f0/python)
 |[Battle of the characters](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/battle_of_the_characters)|`ALGORITHMS` |[Link](https://www.codewars.com/kata/595519279be6c575b5000016/python)
 |[Suzuki needs help lining up his students!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/suzuki_needs_help_lining_up_his_students)|`STRINGS, SORTING, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5701800886306a876a001031/python)
+|[Sum of a sequence](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_a_sequence)|`FUNDAMENTALS, ALGORITHMS, MATHEMATICS` |[Link](https://www.codewars.com/kata/586f6741c66d18c22800010a/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
