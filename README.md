@@ -139,3 +139,4 @@ This is a place where I put my Codewars solutions.
 | [Triple Trouble](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/%20triple_trouble)|`PUZZLES`|[Link](https://www.codewars.com/kata/5704aea738428f4d30000914/python)|
 | [Total pressure calculation](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/total_pressure_calculation)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a/python)|
 | [Thinkful - Logic Drills: Traffic light](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/thinkful_logic_drills_traffic_light)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/58649884a1659ed6cb000072/python)|
+| [Bin to Decimal](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/bin_to_decimal)|`BINARY, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334)|
