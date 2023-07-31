@@ -113,6 +113,7 @@ This is a place where I put my Codewars solutions.
 |[Battle of the characters](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/battle_of_the_characters)|`ALGORITHMS` |[Link](https://www.codewars.com/kata/595519279be6c575b5000016/python)
 |[Suzuki needs help lining up his students!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/suzuki_needs_help_lining_up_his_students)|`STRINGS, SORTING, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5701800886306a876a001031/python)
 |[Sum of a sequence](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_a_sequence)|`FUNDAMENTALS, ALGORITHMS, MATHEMATICS` |[Link](https://www.codewars.com/kata/586f6741c66d18c22800010a/python)
+|[Find min and max](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_min_and_max)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
