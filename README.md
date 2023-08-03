@@ -115,6 +115,7 @@ This is a place where I put my Codewars solutions.
 |[Sum of a sequence](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_a_sequence)|`FUNDAMENTALS, ALGORITHMS, MATHEMATICS` |[Link](https://www.codewars.com/kata/586f6741c66d18c22800010a/python)
 |[Find min and max](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_min_and_max)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130/python)
 |[Sort Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_numbers)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/python)
+|[ASCII letters from Number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ASCII_letters_from_number)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/589ebcb9926baae92e000001/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
