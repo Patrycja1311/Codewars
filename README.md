@@ -117,6 +117,7 @@ This is a place where I put my Codewars solutions.
 |[Sort Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_numbers)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/python)
 |[ASCII letters from Number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ASCII_letters_from_number)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/589ebcb9926baae92e000001/python)
 |[ToLeetSpeak](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ToLeetSpeak)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/57c1ab3949324c321600013f/python)
+|[Count the divisors of a number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/count_the_divisors_of_a_number)|`NUMBER THEORY, MATHEMATICS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/542c0f198e077084c0000c2e/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
