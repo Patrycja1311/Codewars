@@ -151,3 +151,4 @@ This is a place where I put my Codewars solutions.
 |[Remove String Spaces](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/remove_string_spaces)|`FUNDAMENTALS, STRINGS` |[Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/python)
 |[Sum without highest and lowest number](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_without_highest_and_lowest_number)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6/python)
 |[Stringy Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/stringy_strings)|`STRINGS, BINARY, ALGORITHMS` |[Link](https://www.codewars.com/kata/563b74ddd19a3ad462000054/python)
+|[Miles per gallon to kilometers per liter](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/miles_per_gallon_to_kilometers_per_liter)|`ALGORITHMS` |[Link](https://www.codewars.com/kata/557b5e0bddf29d861400005d/train/python)
