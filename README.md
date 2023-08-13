@@ -120,6 +120,7 @@ This is a place where I put my Codewars solutions.
 |[Count the divisors of a number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/count_the_divisors_of_a_number)|`NUMBER THEORY, MATHEMATICS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/542c0f198e077084c0000c2e/python)
 |[Race Ceremony](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/race_ceremony)|`ALGORITHMS, MATHEMATICS` |[Link](https://www.codewars.com/kata/62cecd4e5487c10028996e04/python)
 |[Determine if the poker hand is flush](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20determine_if_the_poker_hand_is_flush)|`ARRAYS, ALGORITHMS, LOGIC, STRINGS, GAMES` |[Link](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d/)
+|[Incrementer](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/incrementer)|`FUNDAMENTALS` |[Link](codewars.com/kata/590e03aef55cab099a0002e8/python)
 
 
 ## Kata 8 kyu
