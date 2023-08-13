@@ -121,6 +121,7 @@ This is a place where I put my Codewars solutions.
 |[Race Ceremony](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/race_ceremony)|`ALGORITHMS, MATHEMATICS` |[Link](https://www.codewars.com/kata/62cecd4e5487c10028996e04/python)
 |[Determine if the poker hand is flush](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/%20determine_if_the_poker_hand_is_flush)|`ARRAYS, ALGORITHMS, LOGIC, STRINGS, GAMES` |[Link](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d/)
 |[Incrementer](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/incrementer)|`FUNDAMENTALS` |[Link](codewars.com/kata/590e03aef55cab099a0002e8/python)
+|[Find the next perfect square!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_next_perfect_square)|`ALGEBRA, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/python)
 
 
 ## Kata 8 kyu
