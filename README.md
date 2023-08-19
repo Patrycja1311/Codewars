@@ -158,3 +158,4 @@ This is a place where I put my Codewars solutions.
 |[Welcome!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/welcome)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/577ff15ad648a14b780000e7/solutions/python)
 |[Grasshopper - Array Mean](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/grasshopper%20_array_mean)|`ARRAYS, LISTS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/55d277882e139d0b6000005d/python)
 |[Welcome to the City](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/welcome_to_the_city)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5302d846be2a9189af0001e4/python)
+|[Name on billboard](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/name_on_billboard)|`FUNDAMENTALS, RESTRICTED, STRINGS` |[Link](https://www.codewars.com/kata/570e8ec4127ad143660001fd/python)
