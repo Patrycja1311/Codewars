@@ -160,3 +160,4 @@ This is a place where I put my Codewars solutions.
 |[Welcome to the City](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/welcome_to_the_city)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5302d846be2a9189af0001e4/python)
 |[Name on billboard](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/name_on_billboard)|`FUNDAMENTALS, RESTRICTED, STRINGS` |[Link](https://www.codewars.com/kata/570e8ec4127ad143660001fd/python)
 |[Remove First and Last Character Part Two](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/remove_first_and_last_character_part_two)|`FUNDAMENTALS, ARRAYS, STRINGS` |[Link](https://www.codewars.com/kata/570597e258b58f6edc00230d/python)
+|[Printing Array elements with Comma delimiters](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/printing_array_elements_with_comma_delimiters)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56e2f59fb2ed128081001328/python)
