@@ -123,6 +123,7 @@ This is a place where I put my Codewars solutions.
 |[Incrementer](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/incrementer)|`FUNDAMENTALS` |[Link](codewars.com/kata/590e03aef55cab099a0002e8/python)
 |[Find the next perfect square!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_next_perfect_square)|`ALGEBRA, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/python)
 |[draw me a chessboard](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/draw_me_a_chessboard)|`PUZZLES, FUNDAMENTALS, ASCII ART, ALGORITHMS` |[Link](https://www.codewars.com/kata/56242b89689c35449b000059/python)
+|[Speed Limit](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/speed_limit)|`ARRAYS` |[Link](https://www.codewars.com/kata/635a7827bafe03708e3e1db6/python)
 
 
 ## Kata 8 kyu
