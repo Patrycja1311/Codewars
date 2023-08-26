@@ -165,3 +165,4 @@ This is a place where I put my Codewars solutions.
 |[Printing Array elements with Comma delimiters](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/printing_array_elements_with_comma_delimiters)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56e2f59fb2ed128081001328/python)
 |[Capitalization and Mutability](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/capitalization_and_mutability)|`STRINGS, DEBUGGING` |[Link](https://www.codewars.com/kata/595970246c9b8fa0a8000086/python)
 |[Super Duper Easy](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/super_duper_easy)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/55a5bfaa756cfede78000026/python)
+|[Plural](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/plural)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/python)
