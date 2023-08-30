@@ -168,3 +168,4 @@ This is a place where I put my Codewars solutions.
 |[Plural](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/plural)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a/python)
 |[Multiple of index](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/multiple_of_index)|`FUNDAMENTALS, ARRAYS` |[Link](https://www.codewars.com/kata/5a34b80155519e1a00000009/python)
 |[Count of positives / sum of negatives](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/count_of_positives_sum_of_negatives)|`FUNDAMENTALS, ARRAYS, LISTS` |[Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/python)
+|[Beginner - Reduce but Grow](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/beginner_reduce_but_grow)|`FUNDAMENTALS, ARRAYS` |[Link](https://www.codewars.com/kata/57f780909f7e8e3183000078/python)
