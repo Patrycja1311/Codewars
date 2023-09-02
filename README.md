@@ -124,6 +124,7 @@ This is a place where I put my Codewars solutions.
 |[Find the next perfect square!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_next_perfect_square)|`ALGEBRA, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/python)
 |[draw me a chessboard](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/draw_me_a_chessboard)|`PUZZLES, FUNDAMENTALS, ASCII ART, ALGORITHMS` |[Link](https://www.codewars.com/kata/56242b89689c35449b000059/python)
 |[Speed Limit](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/speed_limit)|`ARRAYS` |[Link](https://www.codewars.com/kata/635a7827bafe03708e3e1db6/python)
+|[Isograms](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/isograms)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1/python)
 
 
 ## Kata 8 kyu
