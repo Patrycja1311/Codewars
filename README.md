@@ -174,3 +174,4 @@ This is a place where I put my Codewars solutions.
 |[Will you make it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/will_you_make_it)|`MATHEMATICS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/5861d28f124b35723e00005e/python)
 |[Total amount of points](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/total_amount_of_points)|`FUNDAMENTALS, ARRAYS, STRINGS` |[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/python)
 |[Transportation on vacation](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/transportation_on_vacation)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/568d0dd208ee69389d000016/python)
+|[Twice as old](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/twice_as_old)|`FUNDAMENTALS, MATHEMATICS` |[Link](https://www.codewars.com/kata/5b853229cfde412a470000d0/python)
