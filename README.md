@@ -127,6 +127,7 @@ This is a place where I put my Codewars solutions.
 |[Isograms](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/isograms)|`STRINGS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1/python)
 |[ATM](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/atm)|`FUNDAMENTALS, MATHEMATICS, ALGORITHMS` |[Link](https://www.codewars.com/kata/5635e7cb49adc7b54500001c/python)
 |[Between Extremes](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/between_extremes)|`ALGORITHMS, FUNDAMENTALS, ARRAYS` |[Link](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/python)
+|[Love vs friendship](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/love_vs_friendship)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/59706036f6e5d1e22d000016/python)
 
 
 ## Kata 8 kyu
