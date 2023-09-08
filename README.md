@@ -128,7 +128,7 @@ This is a place where I put my Codewars solutions.
 |[ATM](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/atm)|`FUNDAMENTALS, MATHEMATICS, ALGORITHMS` |[Link](https://www.codewars.com/kata/5635e7cb49adc7b54500001c/python)
 |[Between Extremes](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/between_extremes)|`ALGORITHMS, FUNDAMENTALS, ARRAYS` |[Link](https://www.codewars.com/kata/56d19b2ac05aed1a20000430/python)
 |[Love vs friendship](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/love_vs_friendship)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/59706036f6e5d1e22d000016/python)
-
+|[Make a function that does arithmetic!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/make_a_function_that_does_arithmetic)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
