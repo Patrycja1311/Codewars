@@ -133,6 +133,7 @@ This is a place where I put my Codewars solutions.
 |[What dominates your array?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/what_dominates_your_array)|`ARRAYS, FUNDAMENTALS` |[Link](https://www.codewars.com/kata/559e10e2e162b69f750000b4/python)
 |[Count the Ones](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/count_the_ones)|`BINARY, ALGORITHMS` |[Link](https://www.codewars.com/kata/5519e930cd82ff8a9a000216/python)
 |[Triangular Treasure](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/triangular_treasure)|`ALGORITHMS, MATHEMATICS` |[Link](https://www.codewars.com/kata/525e5a1cb735154b320002c8/python)
+|[Character Concatenation](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/character_concatenation)|`FUNDAMENTALS` |[Link](https://www.codewars.com/kata/55147ff29cd40b43c600058b/python)
 
 ## Kata 8 kyu
 | Katas | Subject | Codewars Link
