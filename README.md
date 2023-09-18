@@ -136,6 +136,7 @@ This is a place where I put my Codewars solutions.
 |[Character Concatenation](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/character_concatenation)| `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/55147ff29cd40b43c600058b/python)
 |[Growth of a Population](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/growth_of_a_population)| `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6/python)
 |[Odd or Even?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/odd_or_even)| `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5949481f86420f59480000e7/python)
+|[Money, Money, Money](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/money_money_money)| `FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/563f037412e5ada593000114/python)
 
 ## Kata 8 kyu
 | Katas | Subject                               | Codewars Link
