@@ -187,3 +187,4 @@ This is a place where I put my Codewars solutions.
 |[Twice as old](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/twice_as_old)| `FUNDAMENTALS, MATHEMATICS`           |[Link](https://www.codewars.com/kata/5b853229cfde412a470000d0/python)
 |[Reverse List Order](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/reverse_list_order)| `LISTS, FUNDAMENTALS`                 |[Link](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/python)
 |[No Loops 2 - You only need one](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/no_loops_2_you_only_need_one)| `FUNDAMENTALS, ARRAYS`                |[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/python)
+|[Sum Mixed Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_mixed_array)| `FUNDAMENTALS, STRINGS, ARRAYS`       |[Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009/python)
