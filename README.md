@@ -138,6 +138,7 @@ This is a place where I put my Codewars solutions.
 |[Odd or Even?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/odd_or_even)| `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5949481f86420f59480000e7/python)
 |[Money, Money, Money](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/money_money_money)| `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/563f037412e5ada593000114/python)
 |[Don't give me five!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/dont_give_me_five)| `MATHEMATICS, ARRAYS, ALGORITHMS`                       |[Link](https://www.codewars.com/kata/5813d19765d81c592200001a/python)
+|[Number of Decimal Digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/number_of_decimal_digits)| `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/58fa273ca6d84c158e000052/python)
 
 ## Kata 8 kyu
 | Katas | Subject                               | Codewars Link
