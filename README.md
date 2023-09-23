@@ -140,6 +140,7 @@ This is a place where I put my Codewars solutions.
 |[Don't give me five!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/dont_give_me_five)| `MATHEMATICS, ARRAYS, ALGORITHMS`                       |[Link](https://www.codewars.com/kata/5813d19765d81c592200001a/python)
 |[Number of Decimal Digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/number_of_decimal_digits)| `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/58fa273ca6d84c158e000052/python)
 |[Row Weights](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/row_weights)| `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/python)
+|[Sort the Gift Code](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_the_gift_code)| `SORTING, STRINGS, FUNDAMENTALS`                        |[Link](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/python)
 
 ## Kata 8 kyu
 | Katas | Subject                               | Codewars Link
