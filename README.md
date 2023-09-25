@@ -193,3 +193,4 @@ This is a place where I put my Codewars solutions.
 |[Reverse List Order](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/reverse_list_order)| `LISTS, FUNDAMENTALS`                 |[Link](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/python)
 |[No Loops 2 - You only need one](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/no_loops_2_you_only_need_one)| `FUNDAMENTALS, ARRAYS`                |[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/python)
 |[Sum Mixed Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_mixed_array)| `FUNDAMENTALS, STRINGS, ARRAYS`       |[Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009/python)
+|[Is the string uppercase?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/is_the_string_uppercase)| `FUNDAMENTALS, STRINGS`               |[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/python)
