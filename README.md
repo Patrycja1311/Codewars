@@ -143,6 +143,7 @@ This is a place where I put my Codewars solutions.
 |[Sort the Gift Code](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_the_gift_code)| `SORTING, STRINGS, FUNDAMENTALS`                      |[Link](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/python)
 |[Speed Control](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/speed_control)| `FUNDAMENTALS, MATHEMATICS`                           |[Link](https://www.codewars.com/kata/56484848ba95170a8000004d/python)
 |[Fix string case](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/fix_string_case)| `FUNDAMENTALS`                             |[Link](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/python)
+|[Sum of Cubes](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_cubes)| `FUNDAMENTALS`                             |[Link](https://www.codewars.com/kata/59a8570b570190d313000037/python)
 
 ## Kata 8 kyu
 | Katas | Subject                               | Codewars Link
