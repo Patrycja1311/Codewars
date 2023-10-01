@@ -146,6 +146,7 @@ This is a place where I put my Codewars solutions.
 | [Sum of Cubes](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_cubes)                                                                                       | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/59a8570b570190d313000037/python)
 | [Find the vowels](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_vowels)                                                                                 | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5680781b6b7c2be860000036/python)
 | [Switcheroo](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/switcheroo)                                                                                           | `FUNDAMENTALS, STRINGS`                                 |[Link](https://www.codewars.com/kata/57f759bb664021a30300007d/python)
+| [Filter the number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/filter_the_number)                                                                                           | `STRINGS, FUNDAMENTALS`                                 |[Link]()
 
 ## Kata 8 kyu
 | Katas | Subject                               | Codewars Link
