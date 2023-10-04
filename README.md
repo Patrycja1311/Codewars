@@ -149,6 +149,7 @@ This is a place where I put my Codewars solutions.
 | [Filter the number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/filter_the_number)                                                                            | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/55b051fac50a3292a9000025/python)
 | [My Language Skills](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/my_language_skills)                                                                            | `SORTING, ARRAYS, ALGORITHMS`                           |[Link](https://www.codewars.com/kata/5b16490986b6d336c900007d/python)
 | [Maximum Product](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/maximum_product)                                                                             | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117/python)
+| [Sort arrays - 1](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_arrays_1)                                                                             | `SORTING, ARRAYS, FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8/python)
 
 ## Kata 8 kyu
 | Katas | Subject                               | Codewars Link
