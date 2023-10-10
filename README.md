@@ -155,6 +155,7 @@ This is a place where I put my Codewars solutions.
 | [Largest Elements](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/largest_elements)                                                                            | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/53d32bea2f2a21f666000256/python)
 | [Alphabet war](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/alphabet_war)                                                                             | `FUNDAMENTALS, STRINGS`                                 |[Link](https://www.codewars.com/kata/59377c53e66267c8f6000027/python)
 | [Sorted? yes? no? how?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sorted_yes_no_how)                                                                             | `ARRAYS, SORTING, FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/580a4734d6df748060000045/python)
+| [Return the Missing Element](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/return_the_missing_element)                                                                             | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/5299413901337c637e000004/python)
 
 ## Kata 8 kyu
 | Katas | Subject                               | Codewars Link
