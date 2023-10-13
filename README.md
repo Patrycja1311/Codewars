@@ -11,31 +11,32 @@ This is a place where I put my Codewars solutions.
 
 
 ## Kata 6 kyu
-| Katas | Subject | Codewars Link
-| --- | --- | ---|
-| [Jungerstein's Math Training Room: 1. How many zeros are at the end of n!! ?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/how_many_zeros_are_at_the_end_of_n)|`PUZZLES, MATHEMATICS, NUMBER, THEORY, DISCRETE MATHEMATICS`|[Link](https://www.codewars.com/kata/58cbfe2516341cce1e000001/train/python)|
-| [Multiples of 3 or 5](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/multiples_of_3_or_5)|`MATHEMATICS, ALGORITHMS`|[Link](https://www.codewars.com/kata/514b92a657cdc65150000006)|
-| [Array.diff](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/array_diff)|`ARRAYS, FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009)|
-| [Create Phone Number](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/create_phone_number)|`ARRAYS, STRINGS, REGULAR EXPRESSIONS, ALGORITHMS`|[Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/python)|
-| [Replace With Alphabet Position](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/replace_with_alphabet_position)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da)|
-| [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_number_and_sum_its_digits_raised_to_the_consecutive_powers_and_Eureka_)|`FUNDAMENTALS, MATHEMATICS`|[Link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/python)|
-| [Bit Counting](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/bit_counting)|`BITS, ALGORITHMS`|[Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/python)|
-| [Who likes it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/who_likes_it)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python)|
-| [Persistent Bugger.](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/persistent_bugger)|`FUNDAMENTALS`|[Link](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)|
-| [Find The Parity Outlier](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/find_the_parity_outlier)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python)|
-| [Sum of Digits / Digital Root](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/sum_of%20_digits_digital_root)|`MATHEMATICS, ALGORITHMS`|[Link](https://www.codewars.com/kata/541c8630095125aba6000c00/train/python)|
-| [Stop gninnipS My sdroW!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/stop_gninnips_my_sdrow)|`STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python)|
-| [Convert string to camel case](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/convert_string_to_camel_case)|`REGULAR EXPRESSIONS, ALGORITHMS, STRINGS`|[Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/python)|
-| [Does my number look big in this?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/does_my_number_look_big_in_this)|`ALGORITHMS`|[Link](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python)|
-| [Equal Sides Of An Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/equal_sides_of_an_array)|`ALGORITHMS, ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/python)|
-| [Split Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/split_strings)|`REGULAR EXPRESSIONS, STRINGS, ALGORITHMS`|[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python)|
-| [Build Tower](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/build_tower)|`STRINGS, ASCII ART, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/python)|
-| [Write Number in Expanded Form](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/write_number_in_expanded_form)|`STRINGS, MATHEMATICS, ALGORITHMS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245/python)|
-| [Break camelCase](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/break_camelCase)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/5208f99aee097e6552000148/python)|
-| [Take a Ten Minutes Walk](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_ten_minutes_walk)|`ARRAYS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/python)|
-| [Count characters in your string](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/count_characters_in_your_string)|`STRINGS, FUNDAMENTALS`|[Link](https://www.codewars.com/kata/52efefcbcdf57161d4000091)|
-| [Two Sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/two_sum)|`ARRAYS, FUNDAMENTALS, ALGORITHMS`|[Link](https://www.codewars.com/kata/52c31f8e6605bcc646000082/python)|
-| [Detect Pangram](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/detect_pangram)| `Strings, Data Structures, Fundamentals` |[Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+| Katas | Subject                                                      | Codewars Link
+| --- |--------------------------------------------------------------| ---|
+| [Jungerstein's Math Training Room: 1. How many zeros are at the end of n!! ?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/how_many_zeros_are_at_the_end_of_n)| `PUZZLES, MATHEMATICS, NUMBER, THEORY, DISCRETE MATHEMATICS` |[Link](https://www.codewars.com/kata/58cbfe2516341cce1e000001/train/python)|
+| [Multiples of 3 or 5](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/multiples_of_3_or_5)| `MATHEMATICS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/514b92a657cdc65150000006)|
+| [Array.diff](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/array_diff)| `ARRAYS, FUNDAMENTALS, ALGORITHMS`                           |[Link](https://www.codewars.com/kata/523f5d21c841566fde000009)|
+| [Create Phone Number](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/create_phone_number)| `ARRAYS, STRINGS, REGULAR EXPRESSIONS, ALGORITHMS`           |[Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83/python)|
+| [Replace With Alphabet Position](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/replace_with_alphabet_position)| `STRINGS, FUNDAMENTALS`                                      |[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da)|
+| [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_number_and_sum_its_digits_raised_to_the_consecutive_powers_and_Eureka_)| `FUNDAMENTALS, MATHEMATICS`                                  |[Link](https://www.codewars.com/kata/5626b561280a42ecc50000d1/python)|
+| [Bit Counting](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/bit_counting)| `BITS, ALGORITHMS`                                           |[Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/python)|
+| [Who likes it?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/who_likes_it)| `STRINGS, FUNDAMENTALS`                                      |[Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python)|
+| [Persistent Bugger.](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/persistent_bugger)| `FUNDAMENTALS`                                               |[Link](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)|
+| [Find The Parity Outlier](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/find_the_parity_outlier)| `ALGORITHMS`                                                 |[Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/python)|
+| [Sum of Digits / Digital Root](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/sum_of%20_digits_digital_root)| `MATHEMATICS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/541c8630095125aba6000c00/train/python)|
+| [Stop gninnipS My sdroW!](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/stop_gninnips_my_sdrow)| `STRINGS, ALGORITHMS`                                        |[Link](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python)|
+| [Convert string to camel case](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/convert_string_to_camel_case)| `REGULAR EXPRESSIONS, ALGORITHMS, STRINGS`                   |[Link](https://www.codewars.com/kata/517abf86da9663f1d2000003/python)|
+| [Does my number look big in this?](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/does_my_number_look_big_in_this)| `ALGORITHMS`                                                 |[Link](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python)|
+| [Equal Sides Of An Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/equal_sides_of_an_array)| `ALGORITHMS, ARRAYS, FUNDAMENTALS`                           |[Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/python)|
+| [Split Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/split_strings)| `REGULAR EXPRESSIONS, STRINGS, ALGORITHMS`                   |[Link](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/python)|
+| [Build Tower](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/build_tower)| `STRINGS, ASCII ART, FUNDAMENTALS`                           |[Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/python)|
+| [Write Number in Expanded Form](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/write_number_in_expanded_form)| `STRINGS, MATHEMATICS, ALGORITHMS, FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245/python)|
+| [Break camelCase](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/break_camelCase)| `STRINGS, FUNDAMENTALS`                                      |[Link](https://www.codewars.com/kata/5208f99aee097e6552000148/python)|
+| [Take a Ten Minutes Walk](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/take_a_ten_minutes_walk)| `ARRAYS, FUNDAMENTALS`                                       |[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/python)|
+| [Count characters in your string](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/count_characters_in_your_string)| `STRINGS, FUNDAMENTALS`                                      |[Link](https://www.codewars.com/kata/52efefcbcdf57161d4000091)|
+| [Two Sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/two_sum)| `ARRAYS, FUNDAMENTALS, ALGORITHMS`                           |[Link](https://www.codewars.com/kata/52c31f8e6605bcc646000082/python)|
+| [Detect Pangram](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/detect_pangram)| `Strings, Data Structures, Fundamentals`                     |[Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+| [Kebabize](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/kebabize)| `FUNDAMENTALS, STRINGS, REGULAR EXPRESSIONS`                 |[Link](https://www.codewars.com/kata/57f8ff867a28db569e000c4a/python)
 
 
 ## Kata 7 kyu
