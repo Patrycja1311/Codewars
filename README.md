@@ -39,6 +39,7 @@ This is a place where I put my Codewars solutions.
 | [Kebabize](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/kebabize)| `FUNDAMENTALS, STRINGS, REGULAR EXPRESSIONS`                 |[Link](https://www.codewars.com/kata/57f8ff867a28db569e000c4a/python)
 | [Pokemon Damage Calculator](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/pokemon_damage_calculator)| `ARRAYS, GAMES, STRINGS, PUZZLES`                            |[Link](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/python)
 | [Highest Scoring Word](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/highest_scoring_word)| `FUNDAMENTALS, STRINGS, ARRAYS`                              |[Link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/python)
+| [Sums of Parts](https://github.com/Patrycja1311/Codewars/tree/master/kata_6kyu/sums_of_parts)| `FUNDAMENTALS, PERFORMANCE, ALGORITHMS`                      |[Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/python)
 
 
 ## Kata 7 kyu
