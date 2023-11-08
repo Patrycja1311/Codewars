@@ -215,3 +215,5 @@ This is a place where I put my Codewars solutions.
 |[Sum Mixed Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_mixed_array)| `FUNDAMENTALS, STRINGS, ARRAYS`           |[Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009/python)
 |[Is the string uppercase?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/is_the_string_uppercase)| `FUNDAMENTALS, STRINGS`                   |[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/python)
 |[Count the Monkeys!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/count_the_monkeys)| `ARRAYS, FUNDAMENTALS, LISTS, ALGORITHMS` |[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/python)
+|[Area of a Square](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/area_of_a_square)| `FUNDAMENTALS, MATHEMATICS, GEOMETRY`     |[Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a/python)
+
