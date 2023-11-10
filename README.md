@@ -216,4 +216,5 @@ This is a place where I put my Codewars solutions.
 |[Is the string uppercase?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/is_the_string_uppercase)| `FUNDAMENTALS, STRINGS`                   |[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/python)
 |[Count the Monkeys!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/count_the_monkeys)| `ARRAYS, FUNDAMENTALS, LISTS, ALGORITHMS` |[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/python)
 |[Area of a Square](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/area_of_a_square)| `FUNDAMENTALS, MATHEMATICS, GEOMETRY`     |[Link](https://www.codewars.com/kata/5748838ce2fab90b86001b1a/python)
-
+|[Find numbers which are divisible by given number](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_numbers_which_are_divisible_by_given_number)| `ARRAYS, ALGORITHMS`                      |[Link](https://www.codewars.com/kata/55edaba99da3a9c84000003b/python)
+|[Find the first non-consecutive number](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_the_first_non_consecutive_number)| `ARRAYS, FUNDAMENTALS`                    |[Link](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/python)
