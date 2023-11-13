@@ -161,7 +161,8 @@ This is a place where I put my Codewars solutions.
 | [Sorted? yes? no? how?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sorted_yes_no_how)                                                                           | `ARRAYS, SORTING, FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/580a4734d6df748060000045/python)
 | [Return the Missing Element](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/return_the_missing_element)                                                                           | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/5299413901337c637e000004/python)
 | [The Coupon Code](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_coupon_code)                                                                             | `DATE TIME, STRINGS, FUNDAMENTALS`                      |[Link](https://www.codewars.com/kata/539de388a540db7fec000642/python)
-| [Form The Minimum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/from_the_minimum)                                                                             | `FUNDAMENTALS`                      |[Link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/python)
+| [Form The Minimum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/from_the_minimum)                                                                             | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/python)
+| [Spacify](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/spacify)                                                                             | `FUNDAMENTALS, STRINGS, ARRAYS`                         |[Link](https://www.codewars.com/kata/57f8ee485cae443c4d000127/python)
 
 ## Kata 8 kyu
 | Katas | Subject                                   | Codewars Link
