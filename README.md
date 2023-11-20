@@ -226,3 +226,4 @@ This is a place where I put my Codewars solutions.
 |[Sum The Strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sum_the_strings)| `FUNDAMENTALS`                            |[Link](https://www.codewars.com/kata/5966e33c4e686b508700002d/python)
 |[Grasshopper - Check for factor](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/grasshopper_check_for_factor)| `MATHEMATICS, FUNDAMENTALS`               |[Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/python)
 |[Do I get a bonus?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/do_I_get_a_bonus)| `STRINGS, LOGIC`                          |[Link](https://www.codewars.com/kata/56f6ad906b88de513f000d96/python)
+|[Convert to Binary](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/convert_to_binary)| `MATHEMATICS, ALGORITHMS, FUNDAMENTALS`   |[Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/python)
