@@ -166,6 +166,7 @@ This is a place where I put my Codewars solutions.
 | [Sum of odd numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_odd_numbers)                                                                          | `ARRAYS, LISTS, MATHEMATICS, FUNDAMENTALS`              |[Link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/python)
 | [Convert an array of strings to array of numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/convert_an_array_of_strings_to_array_of_numbers)                | `ARRAYS, PARSING, STRINGS, FUNDAMENTALS`                |[Link](https://www.codewars.com/kata/5783d8f3202c0e486c001d23/python)
 | [Anagram Detection](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/anagram_detection)                 | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/529eef7a9194e0cbc1000255/python)
+| [Maximum Triplet Sum (Array Series #7)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/maximum_triplet_sum_array_series_#7)                 | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5aa1bcda373c2eb596000112/python)
 
 ## Kata 8 kyu
 | Katas | Subject                                   | Codewars Link
