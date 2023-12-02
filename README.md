@@ -169,6 +169,7 @@ This is a place where I put my Codewars solutions.
 | [Maximum Triplet Sum (Array Series #7)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/maximum_triplet_sum_array_series_#7)               | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5aa1bcda373c2eb596000112/python)
 | [Divide and Conquer](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/divide_and_conquer)                | `FUNDAMENTALS, STRINGS, ARRAYS`                         |[Link](https://www.codewars.com/kata/57eaec5608fed543d6000021/python)
 | [From A to Z](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/from_a_to_z)                 | `ALGORITHMS, STRINGS`                                   |[Link](https://www.codewars.com/kata/6512b3775bf8500baea77663/python)
+| [Are the numbers in order?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/are_the_numbers_in_order)                 | `FUNDAMENTALS, MATHEMATICS, ALGORITHMS`                 |[Link](https://www.codewars.com/kata/56b7f2f3f18876033f000307/python)
 
 
 ## Kata 8 kyu
