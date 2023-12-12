@@ -176,6 +176,7 @@ This is a place where I put my Codewars solutions.
 | [Maximum Multiple](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/maximum_multiple)                                                 | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5aba780a6a176b029800041c/python)
 | [Small enough? - Beginner](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/small_enough_beginner)                                                 | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/57cc981a58da9e302a000214/python)
 | [Alternate capitalization](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/alternate_capitalization)                                                 | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/59cfc000aeb2844d16000075/python)
+| [Number of People in the Bus](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/number_of_people_in_the_bus)                                                 | `FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/python)
 
 
 ## Kata 8 kyu
