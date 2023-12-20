@@ -255,3 +255,4 @@ This is a place where I put my Codewars solutions.
 |[Expressions Matter](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/expressions_matter)| `ALGORITHMS, FUNDAMENTALS`                      |[Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/python)
 |[Grasshopper - If/else syntax debug](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/grasshopper_If_else_syntax_debug)| `DEBUGGING`                                     |[Link](https://www.codewars.com/kata/57089707fe2d01529f00024a/python)
 |[Filter out the geese](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/filter_out_the_geese)| `ARRAYS, FUNDAMENTALS`                          |[Link](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/python)
+|[Name Shuffler](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/name_shuffler)| `STRINGS, FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/559ac78160f0be07c200005a/python)
