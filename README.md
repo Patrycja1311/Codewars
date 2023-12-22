@@ -257,3 +257,4 @@ This is a place where I put my Codewars solutions.
 |[Filter out the geese](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/filter_out_the_geese)| `ARRAYS, FUNDAMENTALS`                          |[Link](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/python)
 |[Name Shuffler](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/name_shuffler)| `STRINGS, FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/559ac78160f0be07c200005a/python)
 |[Check same case](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/check_same_case)| `FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/python)
+|[Get Planet Name By ID](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/get_planet_name_by_ID)| `DEBUGGING`                         |[Link](https://www.codewars.com/kata/515e188a311df01cba000003/python)
