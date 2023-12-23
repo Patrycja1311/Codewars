@@ -179,6 +179,7 @@ This is a place where I put my Codewars solutions.
 | [Number of People in the Bus](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/number_of_people_in_the_bus)                                                | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/python)
 | [Summing a number's digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/summing_a_number's_digits)                                                | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/52f3149496de55aded000410/python)
 | [Two Oldest Ages](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/two_oldest_ages)                                                 | `ARRAYS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/511f11d355fe575d2c000001/python)
+| [Most digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/most_digits)                                                 | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/58daa7617332e59593000006/python)
 
 
 ## Kata 8 kyu
