@@ -181,7 +181,8 @@ This is a place where I put my Codewars solutions.
 | [Two Oldest Ages](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/two_oldest_ages)                                                 | `ARRAYS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/511f11d355fe575d2c000001/python)
 | [Most digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/most_digits)                                                 | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/58daa7617332e59593000006/python)
 | [Parts of a list](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/parts_of_a_list)                                                 | `ARRAYS, LISTS, DATA STRUCTURES, ALGORITHMS`            |[Link](https://www.codewars.com/kata/56f3a1e899b386da78000732/python)
-| [Product Of Maximums Of Array (Array Series #2)](https://github.com/Patrycja1311/Codewars/tree/master/product_of_maximums_of_array_(array_series_#2))                                                 | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5a63948acadebff56f000018/python)
+| [Product Of Maximums Of Array (Array Series #2)](https://github.com/Patrycja1311/Codewars/tree/master/product_of_maximums_of_array_(array_series_#2))                                                | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5a63948acadebff56f000018/python)
+| [Round up to the next multiple of 5](https://github.com/Patrycja1311/Codewars/tree/master/pround_up_to_the_next_multiple_of_5)                                                 | `FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/55d1d6d5955ec6365400006d/python)
 
 
 ## Kata 8 kyu
