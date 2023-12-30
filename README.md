@@ -186,6 +186,7 @@ This is a place where I put my Codewars solutions.
 | [Remove anchor from URL](https://github.com/Patrycja1311/Codewars/tree/master/remove_anchor_from_url)                                                                             | `REGULAR EXPRESSIONS, STRINGS, FUNDAMENTALS`            |[Link](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/python)
 | [Two fighters, one winner.](https://github.com/Patrycja1311/Codewars/tree/master/two_fighters_one_winner)                                                                         | `GAMES, ALGORITHMS, LOGIC, FUNDAMENTALS`                |[Link](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/python)
 | [A Rule of Divisibility by 7](https://github.com/Patrycja1311/Codewars/tree/master/a_rule_of_divisibility_by_7)                                                                         | `FUNDAMENTALS`                |[Link](https://www.codewars.com/kata/55e6f5e58f7817808e00002e/python)
+| [Simple Fun #176: Reverse Letter](https://github.com/Patrycja1311/Codewars/tree/master/simple_fun_176_reverse_letter)                                                                         | `FUNDAMENTALS`                |[Link](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/python)
 
 
 ## Kata 8 kyu
