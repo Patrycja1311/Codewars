@@ -266,3 +266,4 @@ This is a place where I put my Codewars solutions.
 |[Name Shuffler](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/name_shuffler)| `STRINGS, FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/559ac78160f0be07c200005a/python)
 |[Check same case](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/check_same_case)| `FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/python)
 |[Get Planet Name By ID](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/get_planet_name_by_ID)| `DEBUGGING`                         |[Link](https://www.codewars.com/kata/515e188a311df01cba000003/python)
+|[Exclusive "or" (xor) Logical Operator](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/exclusive_or_(xor)_logical_operator)| `FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/python)
