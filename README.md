@@ -273,3 +273,4 @@ This is a place where I put my Codewars solutions.
 |[Generate user links](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/generate_user_links)| `PUZZLES`                                       |[Link](https://www.codewars.com/kata/57037ed25a7263ac35000c80/python)
 |[A wolf in sheep's clothing](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/a_wolf_in_sheeps_clothing)| `FUNDAMENTALS, ARRAYS`                          |[Link](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/python)
 |[Fix the loop!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/fix_the_loop!)| `DEBUGGING, FUNDAMENTALS`                       |[Link](https://www.codewars.com/kata/55ca43fb05c5f2f97f0000fd/python)
+|[5 without numbers !!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/5_without_numbers)| `RESTRICTED, FUNDAMENTALS, PUZZLES`             |[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/python)
