@@ -190,6 +190,7 @@ This is a place where I put my Codewars solutions.
 | [Check the exam](https://github.com/Patrycja1311/Codewars/tree/master/check_the_exam)                                                                         | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074/python)
 | [Remove duplicate words](https://github.com/Patrycja1311/Codewars/tree/master/remove_duplicate_words)                                                                        | `STRINGS, REGULAR EXPRESSIONS, ALGORITHMS`              |[Link](https://www.codewars.com/kata/5b39e3772ae7545f650000fc/python)
 | [Sum of Minimums!](https://github.com/Patrycja1311/Codewars/tree/master/sum_of_minimums!)                                                                         | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/python)
+| [Factorial](https://github.com/Patrycja1311/Codewars/tree/master/factorial_function)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/python)
 
 
 ## Kata 8 kyu
