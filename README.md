@@ -192,6 +192,7 @@ This is a place where I put my Codewars solutions.
 | [Sum of Minimums!](https://github.com/Patrycja1311/Codewars/tree/master/sum_of_minimums!)                                                                         | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/python)
 | [Factorial](https://github.com/Patrycja1311/Codewars/tree/master/factorial_function)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212/python)
 | [Maximum Length Difference](https://github.com/Patrycja1311/Codewars/tree/master/maximum_length_difference)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5663f5305102699bad000056/python)
+| [Largest pair sum in array](https://github.com/Patrycja1311/Codewars/tree/master/largest_pair_sum_in_array)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/556196a6091a7e7f58000018/python)
 
 
 ## Kata 8 kyu
