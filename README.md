@@ -202,6 +202,7 @@ This is a place where I put my Codewars solutions.
 | [Simple beads count](https://github.com/Patrycja1311/Codewars/tree/master/simple_beads_count)                                                                        | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/58712dfa5c538b6fc7000569/python)
 | [Squares sequence](https://github.com/Patrycja1311/Codewars/tree/master/squares_sequence)                                                                         | `MATHEMATICS, FUNDAMENTALS`                             |[Link](https://www.codewars.com/kata/5546180ca783b6d2d5000062/python)
 | [Simple remove duplicates](https://github.com/Patrycja1311/Codewars/tree/master/simple_remove_duplicates)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5ba38ba180824a86850000f7/python)
+| [Ordered Count of Characters](https://github.com/Patrycja1311/Codewars/tree/master/ordered_count_of_characters)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/57a6633153ba33189e000074/python)
 
 
 ## Kata 8 kyu
