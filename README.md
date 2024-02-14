@@ -209,6 +209,7 @@ This is a place where I put my Codewars solutions.
 | [Predict your age!](https://github.com/Patrycja1311/Codewars/tree/master/predict_your_age)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae/python)
 | [Sum of array singles](https://github.com/Patrycja1311/Codewars/tree/master/sum_of_array_singles)                                                                         | `ALGORITHMS`                                            |[Link](https://www.codewars.com/kata/59f11118a5e129e591000134/python)
 | [Smallest value of an array](https://github.com/Patrycja1311/Codewars/tree/master/smallest_value_of_an_array)                                                                         | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/544a54fd18b8e06d240005c0/python)
+| [Sum of Odd Cubed Numbers](https://github.com/Patrycja1311/Codewars/tree/master/sum_of_odd_cubed_numbers)                                                                         | `FUNDAMENTALS, FUNCTIONAL PROGRAMMING, ARRAYS`          |[Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a/python)
 
 
 ## Kata 8 kyu
