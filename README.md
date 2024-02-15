@@ -210,6 +210,7 @@ This is a place where I put my Codewars solutions.
 | [Sum of array singles](https://github.com/Patrycja1311/Codewars/tree/master/sum_of_array_singles)                                                                         | `ALGORITHMS`                                            |[Link](https://www.codewars.com/kata/59f11118a5e129e591000134/python)
 | [Smallest value of an array](https://github.com/Patrycja1311/Codewars/tree/master/smallest_value_of_an_array)                                                                         | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/544a54fd18b8e06d240005c0/python)
 | [Sum of Odd Cubed Numbers](https://github.com/Patrycja1311/Codewars/tree/master/sum_of_odd_cubed_numbers)                                                                         | `FUNDAMENTALS, FUNCTIONAL PROGRAMMING, ARRAYS`          |[Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a/python)
+| [All unique](https://github.com/Patrycja1311/Codewars/tree/master/all_unique)                                                                         | `ALGORITHMS, STRINGS`                                   |[Link](https://www.codewars.com/kata/553e8b195b853c6db4000048/python)
 
 
 ## Kata 8 kyu
