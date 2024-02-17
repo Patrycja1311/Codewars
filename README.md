@@ -211,7 +211,8 @@ This is a place where I put my Codewars solutions.
 | [Smallest value of an array](https://github.com/Patrycja1311/Codewars/tree/master/smallest_value_of_an_array)                                                                         | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/544a54fd18b8e06d240005c0/python)
 | [Sum of Odd Cubed Numbers](https://github.com/Patrycja1311/Codewars/tree/master/sum_of_odd_cubed_numbers)                                                                         | `FUNDAMENTALS, FUNCTIONAL PROGRAMMING, ARRAYS`          |[Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a/python)
 | [All unique](https://github.com/Patrycja1311/Codewars/tree/master/all_unique)                                                                         | `ALGORITHMS, STRINGS`                                   |[Link](https://www.codewars.com/kata/553e8b195b853c6db4000048/python)
-| [Basic Calculator](https://github.com/Patrycja1311/Codewars/tree/master/basic_calculator)                                                                         | `FUNDAMENTALS`                                   |[Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f/python)
+| [Basic Calculator](https://github.com/Patrycja1311/Codewars/tree/master/basic_calculator)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f/python)
+| [Sort by Last Char](https://github.com/Patrycja1311/Codewars/tree/master/sort_by_last_char)                                                                         | `FUNDAMENTALS, STRINGS, ARRAYS, SORTING`                |[Link](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0/python)
 
 
 ## Kata 8 kyu
