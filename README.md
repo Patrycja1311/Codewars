@@ -213,6 +213,7 @@ This is a place where I put my Codewars solutions.
 | [All unique](https://github.com/Patrycja1311/Codewars/tree/master/all_unique)                                                                         | `ALGORITHMS, STRINGS`                                   |[Link](https://www.codewars.com/kata/553e8b195b853c6db4000048/python)
 | [Basic Calculator](https://github.com/Patrycja1311/Codewars/tree/master/basic_calculator)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f/python)
 | [Sort by Last Char](https://github.com/Patrycja1311/Codewars/tree/master/sort_by_last_char)                                                                         | `FUNDAMENTALS, STRINGS, ARRAYS, SORTING`                |[Link](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0/python)
+| [Folding your way to the moon](https://github.com/Patrycja1311/Codewars/tree/master/folding_your_way_to_the_moon)                                                                         | `MATHEMATICS, FUNDAMENTALS`                             |[Link](https://www.codewars.com/kata/58f0ba42e89aa6158400000e/python)
 
 
 ## Kata 8 kyu
