@@ -214,7 +214,8 @@ This is a place where I put my Codewars solutions.
 | [Basic Calculator](https://github.com/Patrycja1311/Codewars/tree/master/basic_calculator)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5296455e4fe0cdf2e000059f/python)
 | [Sort by Last Char](https://github.com/Patrycja1311/Codewars/tree/master/sort_by_last_char)                                                                         | `FUNDAMENTALS, STRINGS, ARRAYS, SORTING`                |[Link](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0/python)
 | [Folding your way to the moon](https://github.com/Patrycja1311/Codewars/tree/master/folding_your_way_to_the_moon)                                                                         | `MATHEMATICS, FUNDAMENTALS`                             |[Link](https://www.codewars.com/kata/58f0ba42e89aa6158400000e/python)
-| [Unlucky Days](https://github.com/Patrycja1311/Codewars/tree/master/unlucky_days)                                                                         | `DATE TIME`                             |[Link](https://www.codewars.com/kata/56eb0be52caf798c630013c0/python)
+| [Unlucky Days](https://github.com/Patrycja1311/Codewars/tree/master/unlucky_days)                                                                         | `DATE TIME`                                             |[Link](https://www.codewars.com/kata/56eb0be52caf798c630013c0/python)
+| [Lost number in number sequence](https://github.com/Patrycja1311/Codewars/tree/master/lost_number_in_number_sequence)                                                                         | `ARRAYS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/595aa94353e43a8746000120/python)
 
 
 ## Kata 8 kyu
