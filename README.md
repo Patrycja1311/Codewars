@@ -217,6 +217,7 @@ This is a place where I put my Codewars solutions.
 | [Unlucky Days](https://github.com/Patrycja1311/Codewars/tree/master/unlucky_days)                                                                         | `DATE TIME`                                             |[Link](https://www.codewars.com/kata/56eb0be52caf798c630013c0/python)
 | [Lost number in number sequence](https://github.com/Patrycja1311/Codewars/tree/master/lost_number_in_number_sequence)                                                                        | `ARRAYS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/595aa94353e43a8746000120/python)
 | [V A P O R C O D E](https://github.com/Patrycja1311/Codewars/tree/master/vaporcode)                                                                         | `FUNDAMENTALS`                                    |[Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a/python)
+| [Find the nth Digit of a Number](https://github.com/Patrycja1311/Codewars/tree/master/find_the_nth_digit_of_a_number)                                                                         | `FUNDAMENTALS`                                    |[Link](https://www.codewars.com/kata/577b9960df78c19bca00007e/python)
 
 
 ## Kata 8 kyu
