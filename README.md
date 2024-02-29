@@ -224,6 +224,7 @@ This is a place where I put my Codewars solutions.
 | [Simple string characters](https://github.com/Patrycja1311/Codewars/tree/master/simple_string_characters)                                                                       | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/python)
 | [Indexed capitalization](https://github.com/Patrycja1311/Codewars/tree/master/indexed_capitalization)                                                                        | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/python)
 | [Longest vowel chain](https://github.com/Patrycja1311/Codewars/tree/master/longest_vowel_chain)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/python)
+| [All Inclusive?](https://github.com/Patrycja1311/Codewars/tree/master/all_inclusive)                                                                         | `FUNDAMENTALS, STRINGS`                                 |[Link](https://www.codewars.com/kata/5700c9acc1555755be00027e/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
