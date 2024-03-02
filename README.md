@@ -226,6 +226,7 @@ This is a place where I put my Codewars solutions.
 | [Longest vowel chain](https://github.com/Patrycja1311/Codewars/tree/master/longest_vowel_chain)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/python)
 | [All Inclusive?](https://github.com/Patrycja1311/Codewars/tree/master/all_inclusive)                                                                         | `FUNDAMENTALS, STRINGS`                                 |[Link](https://www.codewars.com/kata/5700c9acc1555755be00027e/python)
 | [Functional Addition](https://github.com/Patrycja1311/Codewars/tree/master/functional_addition)                                                                         | `FUNCTIONAL PROGRAMMING, FUNDAMENTALS`                  |[Link](https://www.codewars.com/kata/538835ae443aae6e03000547/python)
+| [Sum - Square Even, Root Odd](https://github.com/Patrycja1311/Codewars/tree/master/sum_square_even_root_odd)                                                                         | `FUNDAMENTALS`                  |[Link](https://www.codewars.com/kata/5a4b16435f08299c7000274f/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
