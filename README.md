@@ -228,6 +228,7 @@ This is a place where I put my Codewars solutions.
 | [Functional Addition](https://github.com/Patrycja1311/Codewars/tree/master/functional_addition)                                                                         | `FUNCTIONAL PROGRAMMING, FUNDAMENTALS`                  |[Link](https://www.codewars.com/kata/538835ae443aae6e03000547/python)
 | [Sum - Square Even, Root Odd](https://github.com/Patrycja1311/Codewars/tree/master/sum_square_even_root_odd)                                                                         | `FUNDAMENTALS`                  |[Link](https://www.codewars.com/kata/5a4b16435f08299c7000274f/python)
 | [Alternate case](https://github.com/Patrycja1311/Codewars/tree/master/alternate_case)                                                                         | `FUNDAMENTALS`                  |[Link](https://www.codewars.com/kata/57a62154cf1fa5b25200031e/python)
+| [Find the lucky numbers](https://github.com/Patrycja1311/Codewars/tree/master/find_the_lucky_numbers)                                                                         | `FUNDAMENTALS`                  |[Link](https://www.codewars.com/kata/580435ab150cca22650001fb/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
