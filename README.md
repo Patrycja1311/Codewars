@@ -232,6 +232,7 @@ This is a place where I put my Codewars solutions.
 | [Changing letters](https://github.com/Patrycja1311/Codewars/tree/master/changing_letters)                                                                         | `FUNDAMENTALS, STRINGS`                                 |[Link](https://www.codewars.com/kata/5831c204a31721e2ae000294/python)
 | [Numbers in strings](https://github.com/Patrycja1311/Codewars/tree/master/numbers_in_strings)                                                                         | `STRINGS, ALGORITHMS`                                   |[Link](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/python)
 | [Discover The Original Price](https://github.com/Patrycja1311/Codewars/tree/master/discover_the_original_price)                                                                         | `FUNDAMENTALS, MATHEMATICS`                             |[Link](https://www.codewars.com/kata/552564a82142d701f5001228/python)
+| [Last Survivor](https://github.com/Patrycja1311/Codewars/tree/master/last_survivor)                                                                         | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/609eee71109f860006c377d1/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
