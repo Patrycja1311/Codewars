@@ -234,6 +234,7 @@ This is a place where I put my Codewars solutions.
 | [Discover The Original Price](https://github.com/Patrycja1311/Codewars/tree/master/discover_the_original_price)                                                                         | `FUNDAMENTALS, MATHEMATICS`                             |[Link](https://www.codewars.com/kata/552564a82142d701f5001228/python)
 | [Last Survivor](https://github.com/Patrycja1311/Codewars/tree/master/last_survivor)                                                                         | `FUNDAMENTALS, ARRAYS`                                  |[Link](https://www.codewars.com/kata/609eee71109f860006c377d1/python)
 | [Digits explosion](https://github.com/Patrycja1311/Codewars/tree/master/digits_explosion)                                                                         | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`            |[Link](https://www.codewars.com/kata/585b1fafe08bae9988000314/python)
+| [Band name generator](https://github.com/Patrycja1311/Codewars/tree/master/band_name_generator)                                                                         | `FUNDAMENTALS`            |[Link](https://www.codewars.com/kata/59727ff285281a44e3000011/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
