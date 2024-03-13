@@ -237,6 +237,7 @@ This is a place where I put my Codewars solutions.
 | [Band name generator](https://github.com/Patrycja1311/Codewars/tree/master/band_name_generator)                                                                        | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/59727ff285281a44e3000011/python)
 | [Difference Of Squares](https://github.com/Patrycja1311/Codewars/tree/master/difference_of_squares)                                                                        | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/558f9f51e85b46e9fa000025/python)
 | [String Merge!](https://github.com/Patrycja1311/Codewars/tree/master/string_merge)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/597bb84522bc93b71e00007e/python)
+| [How many arguments](https://github.com/Patrycja1311/Codewars/tree/master/how_many_arguments)                                                                         | `FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/5c44b0b200ce187106452139/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
