@@ -239,6 +239,7 @@ This is a place where I put my Codewars solutions.
 | [String Merge!](https://github.com/Patrycja1311/Codewars/tree/master/string_merge)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/597bb84522bc93b71e00007e/python)
 | [How many arguments](https://github.com/Patrycja1311/Codewars/tree/master/how_many_arguments)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5c44b0b200ce187106452139/python)
 | [Nickname Generator](https://github.com/Patrycja1311/Codewars/tree/master/nickname_generator)                                                                         | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`            |[Link](https://www.codewars.com/kata/593b1909e68ff627c9000186/python)
+| [Split In Parts](https://github.com/Patrycja1311/Codewars/tree/master/split_in_parts)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/5650ab06d11d675371000003/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
