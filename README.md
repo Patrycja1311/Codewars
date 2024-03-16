@@ -240,6 +240,7 @@ This is a place where I put my Codewars solutions.
 | [How many arguments](https://github.com/Patrycja1311/Codewars/tree/master/how_many_arguments)                                                                         | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5c44b0b200ce187106452139/python)
 | [Nickname Generator](https://github.com/Patrycja1311/Codewars/tree/master/nickname_generator)                                                                         | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`            |[Link](https://www.codewars.com/kata/593b1909e68ff627c9000186/python)
 | [Split In Parts](https://github.com/Patrycja1311/Codewars/tree/master/split_in_parts)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/5650ab06d11d675371000003/python)
+| [Clean up after your dog](https://github.com/Patrycja1311/Codewars/tree/master/clean_up_after_your_dog)                                                                         | `FUNDAMENTALS, STRINGS, ARRAYS, MATHEMATICS`            |[Link](https://www.codewars.com/kata/57faa6ff9610ce181b000028/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
