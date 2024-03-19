@@ -243,6 +243,7 @@ This is a place where I put my Codewars solutions.
 | [Clean up after your dog](https://github.com/Patrycja1311/Codewars/tree/master/clean_up_after_your_dog)                                                                         | `FUNDAMENTALS, STRINGS, ARRAYS, MATHEMATICS`            |[Link](https://www.codewars.com/kata/57faa6ff9610ce181b000028/python)
 | [Debug Sum of Digits of a Number](https://github.com/Patrycja1311/Codewars/tree/master/debug_sum_of_digits_of_a_number)                                                                        | `DEBUGGING, FUNDAMENTALS`                               |[Link](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba/python)
 | [Inspiring Strings](https://github.com/Patrycja1311/Codewars/tree/master/inspiring_strings)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/5939ab6eed348a945f0007b2/python)
+| [lucky number](https://github.com/Patrycja1311/Codewars/tree/master/lucky_number)                                                                         | `FUNDAMENTALS, MATHEMATICS`                             |[Link](https://www.codewars.com/kata/55afed09237df73343000042/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
