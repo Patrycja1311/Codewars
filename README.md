@@ -246,6 +246,7 @@ This is a place where I put my Codewars solutions.
 | [lucky number](https://github.com/Patrycja1311/Codewars/tree/master/lucky_number)                                                                         | `FUNDAMENTALS, MATHEMATICS`                             |[Link](https://www.codewars.com/kata/55afed09237df73343000042/python)
 | [Return String of First Characters](https://github.com/Patrycja1311/Codewars/tree/master/return_string_of_first_character)                                                                        | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`            |[Link](https://www.codewars.com/kata/5639bdcef2f9b06ce800005b/python)
 | [Max-min arrays](https://github.com/Patrycja1311/Codewars/tree/master/max_min_arrays)                                                                         | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/5a090c4e697598d0b9000004/python)
+| [Array element parity](https://github.com/Patrycja1311/Codewars/tree/master/array_element_parity)                                                                         | `ARRAYS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/5a092d9e46d843b9db000064/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
