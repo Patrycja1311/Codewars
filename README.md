@@ -249,6 +249,7 @@ This is a place where I put my Codewars solutions.
 | [Array element parity](https://github.com/Patrycja1311/Codewars/tree/master/array_element_parity)                                                                                 | `ARRAYS, ALGORITHMS`                                    |[Link](https://www.codewars.com/kata/5a092d9e46d843b9db000064/python)
 | [Greatest common divisor](https://github.com/Patrycja1311/Codewars/tree/master/greatest_common_divisor)                                                                           | `ALGORITHMS, FUNDAMENTALS, RECURSION`                   |[Link](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd/python)
 | [Digital cypher vol 2](https://github.com/Patrycja1311/Codewars/tree/master/digital_cypher_vol_2)                                                                                  | `FUNDAMENTALS, CIPHERS, CRYPTOGRAPHY`                   |[Link](https://www.codewars.com/kata/592edfda5be407b9640000b2/python)
+| [FIXME: Get Full Name](https://github.com/Patrycja1311/Codewars/tree/master/fixme_get_full_name)                                                                                  | `DEBUGGING`                   |[Link](https://www.codewars.com/kata/597c684822bc9388f600010f/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
