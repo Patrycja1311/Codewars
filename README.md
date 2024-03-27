@@ -251,6 +251,7 @@ This is a place where I put my Codewars solutions.
 | [Digital cypher vol 2](https://github.com/Patrycja1311/Codewars/tree/master/digital_cypher_vol_2)                                                                                  | `FUNDAMENTALS, CIPHERS, CRYPTOGRAPHY`                   |[Link](https://www.codewars.com/kata/592edfda5be407b9640000b2/python)
 | [FIXME: Get Full Name](https://github.com/Patrycja1311/Codewars/tree/master/fixme_get_full_name)                                                                                  | `DEBUGGING`                                             |[Link](https://www.codewars.com/kata/597c684822bc9388f600010f/python)
 | [Help the Fruit Guy](https://github.com/Patrycja1311/Codewars/tree/master/help_the_fruit_guy)                                                                                  | `ARRAYS, STRINGS, FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/557af4c6169ac832300000ba/python)
+| [Word values](https://github.com/Patrycja1311/Codewars/tree/master/word_values)                                                                                  | `FUNDAMENTALS`                         |[Link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
