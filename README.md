@@ -273,6 +273,7 @@ This is a place where I put my Codewars solutions.
 | [See You Next Happy Year](https://github.com/Patrycja1311/Codewars/tree/master/see_you_next_happy_year)                                                                           | `FUNDAMENTALS`                                          |[Link](https://www.codewars.com/kata/5ae7e3f068e6445bc8000046/python)
 | [Arithmetic progression](https://github.com/Patrycja1311/Codewars/tree/master/arithmetic_progression)                                                                             | `ARRAYS, FUNDAMENTALS`                                  |[Link](https://www.codewars.com/kata/55caf1fd8063ddfa8e000018/python)
 | [Basic Math (Add or Subtract)](https://github.com/Patrycja1311/Codewars/tree/master/basic_math_add_or_subtract)                                                                         | `STRINGS, FUNDAMENTALS`                                 |[Link](https://www.codewars.com/kata/5809b62808ad92e31b000031/python)
+| [Covfefe](https://github.com/Patrycja1311/Codewars/tree/master/covfefe)                                                                         | `STRINGS`                                               |[Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                               | Subject                                         | Codewars Link
