@@ -300,6 +300,7 @@ This is a place where I put my Codewars solutions.
 | [GCD sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/gcd_sum)                                                                                                 | `FUNDAMENTALS`                                           |[Link](https://www.codewars.com/kata/5dd259444228280032b1ed2a/python)
 | [No ifs no buts](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/no_ifs_no_buts)                                                                                   | `RESTRICTED, FUNDAMENTALS`                               |[Link](https://www.codewars.com/kata/592915cc1fad49252f000006/python)
 | [Easy wallpaper](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/easy_wallpaper)                                                                                   | `FUNDAMENTALS`                               |[Link](https://www.codewars.com/kata/567501aec64b81e252000003/python)
+| [8 towers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/8_towers)                                                                                   | `ALGORITHMS`                               |[Link](https://www.codewars.com/kata/535bea76cdbf50281a00004c/python)
 
 ## Kata 8 kyu
 | Katas                                                                                                                                                                                                                                   | Subject                                        | Codewars Link
