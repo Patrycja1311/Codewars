@@ -337,6 +337,7 @@ This is a place where I put my Codewars solutions.
 | [Is It Negative Zero (-0)?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/is_it_negative_zero_-0)                                                                                           | `FUNDAMENTALS`                                           |[Link](https://www.codewars.com/kata/5c5086287bc6600001c7589a/python)
 | [Going to the cinema](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/going_to_the_cinema)                                                                                            | `FUNDAMENTALS`                                           |[Link](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e/python)
 | [Scrolling Text](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/scrolling_text)                                                                                             | `STRINGS, ARRAYS, FUNDAMENTALS`                          |[Link](https://www.codewars.com/kata/5a995c2aba1bb57f660001fd/python)
+| [Return the closest number multiple of 10](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/return_the_closest_number_multiple_of_10)                                                                                             | `MATHEMATICS, FUNDAMENTALS`                              |[Link](https://www.codewars.com/kata/58249d08b81f70a2fc0001a4/python)
 
 
 ## Kata 8 kyu
