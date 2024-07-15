@@ -342,6 +342,7 @@ This is a place where I put my Codewars solutions.
 | [Reverse the bits in an integer](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/reverse_the_bits_in_an_integer)                                                                                            | `BITS, FUNDAMENTALS`                                     |[Link](https://www.codewars.com/kata/5959ec605595565f5c00002b/python)
 | [Disarium Number (Special Numbers Series #3)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/disarium_number_special_numbers_series_#3)                                                                                            | `FUNDAMENTALS, MATHEMATICS`                              |[Link](https://www.codewars.com/kata/5a53a17bfd56cb9c14000003/python)
 | [The old switcheroo](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_old_switcheroo)                                                                                             | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/55d410c492e6ed767000004f/python)
+| [Flatten](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/flatten)                                                                                             | `FUNCTIONAL PROGRAMMING, ARRAYS, FUNDAMENTALS`           |[Link](https://www.codewars.com/kata/5250a89b1625e5decd000413/python)
 
 
 
