@@ -344,7 +344,7 @@ This is a place where I put my Codewars solutions.
 | [The old switcheroo](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_old_switcheroo)                                                                                            | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/55d410c492e6ed767000004f/python)
 | [Flatten](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/flatten)                                                                                             | `FUNCTIONAL PROGRAMMING, ARRAYS, FUNDAMENTALS`           |[Link](https://www.codewars.com/kata/5250a89b1625e5decd000413/python)
 | [Digital cypher](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/digital_cypher)                                                                                             | `FUNDAMENTALS, CIPHERS, CRYPTOGRAPHY`                    |[Link](https://www.codewars.com/kata/592e830e043b99888600002d/python)
-
+| [Simple eviternity numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_eviternity_numbers)                                                                                             | `FUNDAMENTALS`                    |[Link](https://www.codewars.com/kata/5b93f268563417c7ed0001bd/python)
 
 
 ## Kata 8 kyu
