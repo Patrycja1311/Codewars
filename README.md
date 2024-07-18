@@ -345,6 +345,7 @@ This is a place where I put my Codewars solutions.
 | [Flatten](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/flatten)                                                                                             | `FUNCTIONAL PROGRAMMING, ARRAYS, FUNDAMENTALS`           |[Link](https://www.codewars.com/kata/5250a89b1625e5decd000413/python)
 | [Digital cypher](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/digital_cypher)                                                                                             | `FUNDAMENTALS, CIPHERS, CRYPTOGRAPHY`                    |[Link](https://www.codewars.com/kata/592e830e043b99888600002d/python)
 | [Simple eviternity numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_eviternity_numbers)                                                                                             | `FUNDAMENTALS`                    |[Link](https://www.codewars.com/kata/5b93f268563417c7ed0001bd/python)
+| [Sum of integers in string](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_integers_in_string)                                                                                             | `FUNDAMENTALS`                    |[Link](https://www.codewars.com/kata/598f76a44f613e0e0b000026/python)
 
 
 ## Kata 8 kyu
