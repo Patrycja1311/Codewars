@@ -353,7 +353,8 @@ This is a place where I put my Codewars solutions.
 | [Jumping Number (Special Numbers Series #4)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/jumping_number_special_numbers_series_4)                            | `FUNDAMENTALS, MATHEMATICS`                              |[Link](https://www.codewars.com/kata/5a54e796b3bfa8932c0000ed/python)
 | [Evens and Odds](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/evens_and_odds)                                                       | `FUNDAMENTALS, BINARY`                                   |[Link](https://www.codewars.com/kata/583ade15666df5a64e000058/python)
 | [esreveR](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/esreveR)                                                        | `FUNCTIONAL PROGRAMMING, FUNDAMENTALS`                   |[Link](https://www.codewars.com/kata/5413759479ba273f8100003d/python)
-| [The Office IV - Find a Meeting Room](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_office_IV_find_a_meeting_room)                                                        | `FUNDAMENTALS, ARRAYS`                                   |[Link](https://www.codewars.com/kata/57f604a21bd4fe771b00009c/python)
+| [The Office IV - Find a Meeting Room](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_office_IV_find_a_meeting_room)                                                       | `FUNDAMENTALS, ARRAYS`                                   |[Link](https://www.codewars.com/kata/57f604a21bd4fe771b00009c/python)
+| [Simple Fun #152: Invite More Women?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_fun_152_invite_more_women)                                                        | `PUZZLES`                                   |[Link](https://www.codewars.com/kata/58acfe4ae0201e1708000075/python)
 
 
 ## Kata 8 kyu
