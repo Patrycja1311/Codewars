@@ -356,6 +356,7 @@ This is a place where I put my Codewars solutions.
 | [The Office IV - Find a Meeting Room](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_office_IV_find_a_meeting_room)                                                      | `FUNDAMENTALS, ARRAYS`                                   |[Link](https://www.codewars.com/kata/57f604a21bd4fe771b00009c/python)
 | [Simple Fun #152: Invite More Women?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_fun_152_invite_more_women)                                                       | `PUZZLES`                                   |[Link](https://www.codewars.com/kata/58acfe4ae0201e1708000075/python)
 | [Simple Fun #74: Growing Plant](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_fun_74_growing_plant)                                                        | `ALGORITHMS`                                   |[Link](https://www.codewars.com/kata/58941fec8afa3618c9000184/python)
+| [Sum of all arguments](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_all_arguments)                                                        | `FUNDAMENTALS`                                   |[Link](https://www.codewars.com/kata/540c33513b6532cd58000259/python)
 
 
 ## Kata 8 kyu
