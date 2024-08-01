@@ -359,6 +359,7 @@ This is a place where I put my Codewars solutions.
 | [Sum of all arguments](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sum_of_all_arguments)                                                       | `FUNDAMENTALS`                                           |[Link](https://www.codewars.com/kata/540c33513b6532cd58000259/python)
 | [Palindrome chain length](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/palindrome_chain_length)                                                       | `ALGORITHMS`                                             |[Link](https://www.codewars.com/kata/525f039017c7cd0e1a000a26/python)
 | [makeBackronym](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/make_backronym)                                                        | `FUNDAMENTALS, STRINGS`                                  |[Link](https://www.codewars.com/kata/55805ab490c73741b7000064/python)
+| [L2: Triple X](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/l2_triple_x)                                                        | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/568dc69683322417eb00002c/python)
 
 
 ## Kata 8 kyu
