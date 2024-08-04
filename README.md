@@ -362,6 +362,7 @@ This is a place where I put my Codewars solutions.
 | [L2: Triple X](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/l2_triple_x)                                                                                        | `STRINGS, REGULAR EXPRESSIONS, FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/568dc69683322417eb00002c/python)
 | [Elevator Distance](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/elevator_distance)                                                                             | `FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/59f061773e532d0c87000d16/python)
 | [Frequency sequence](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/frequency_sequence)                                                                           | `FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/585a033e3a36cdc50a00011c/train/python)
+| [Letterbox Paint-Squad](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/letterbox_paint_squad)                                                                      | `FUNDAMENTALS`             |[Link](https://www.codewars.com/kata/597d75744f4190857a00008d/python)
 
 
 ## Kata 8 kyu
