@@ -366,6 +366,7 @@ This is a place where I put my Codewars solutions.
 | [Find Count of Most Frequent Item in an Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_count_of_most_frequent_item_in_an_array)                                                                     | `Data Structures, Fundamentals`                          |[Link](https://www.codewars.com/kata/56582133c932d8239900002e/python)
 | [Minimum Steps (Array Series #6)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/minimum_steps_array_series_6)                                                                      | `Fundamentals, Arrays`                                   |[Link](https://www.codewars.com/kata/5a91a7c5fd8c061367000002/python)
 | [Convert a linked list to a string](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/convert_a_linked_list_to_a_string)                                                                      | `Linked Lists, Recursion, Algorithms`                    |[Link](https://www.codewars.com/kata/582c297e56373f0426000098/python)
+| [Simple consecutive pairs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_consecutive_pairs)                                                                      | `Arrays, Fundamentals`                                   |[Link](https://www.codewars.com/kata/5a3e1319b6486ac96f000049/python)
 
 
 ## Kata 8 kyu
