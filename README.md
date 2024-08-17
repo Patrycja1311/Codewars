@@ -370,7 +370,8 @@ This is a place where I put my Codewars solutions.
 | [Insert dashes](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/insert_dashes)                                                                                     | `Strings, Arrays, Fundamentals`                          |[Link](https://www.codewars.com/kata/55960bbb182094bc4800007b/python)
 | [How many are smaller than me?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/how_many_are_smaller_than_me)                                                                   | `Arrays, Algorithms`                                     |[Link](https://www.codewars.com/kata/56a1c074f87bc2201200002e/python)
 | [Complete The Pattern #2](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/complete_the_pattern_2)                                                                     | `ASCII Art, Puzzles`                                     |[Link](https://www.codewars.com/kata/55733d3ef7c43f8b0700007c/python)
-| [The fusc function -- Part 1](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_fusc_function_part_1)                                                                     | `Algorithms`                                     |[Link](https://www.codewars.com/kata/570409d3d80ec699af001bf9/python)
+| [The fusc function -- Part 1](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_fusc_function_part_1)                                                                     | `Algorithms`                                             |[Link](https://www.codewars.com/kata/570409d3d80ec699af001bf9/python)
+| [Regexp Basics - is it a vowel?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/regexp_basics_is_it_a_vowel)                                                                     | `Regular Expressions, Fundamentals`                      |[Link](https://www.codewars.com/kata/567bed99ee3451292c000025/python)
 
 
 ## Kata 8 kyu
