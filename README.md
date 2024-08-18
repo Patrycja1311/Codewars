@@ -372,6 +372,7 @@ This is a place where I put my Codewars solutions.
 | [Complete The Pattern #2](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/complete_the_pattern_2)                                                                     | `ASCII Art, Puzzles`                                     |[Link](https://www.codewars.com/kata/55733d3ef7c43f8b0700007c/python)
 | [The fusc function -- Part 1](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_fusc_function_part_1)                                                                     | `Algorithms`                                             |[Link](https://www.codewars.com/kata/570409d3d80ec699af001bf9/python)
 | [Regexp Basics - is it a vowel?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/regexp_basics_is_it_a_vowel)                                                                     | `Regular Expressions, Fundamentals`                      |[Link](https://www.codewars.com/kata/567bed99ee3451292c000025/python)
+| [Calculate Two People's Individual Ages](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/calculate_two_peoples_individual_ages)                                                                     | `Fundamentals, Algorithms, Arrays`                       |[Link](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1/python)
 
 
 ## Kata 8 kyu
