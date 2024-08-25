@@ -379,6 +379,7 @@ This is a place where I put my Codewars solutions.
 | [The Office I - Outed](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_office_I_outed)                                                    | `Fundamentals, Arrays`                                   |[Link](https://codewars.com/kata/57ecf6efc7fe13eb070000e1/python)
 | [Double Sort](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/double_sort)                                                     | `Fundamentals, Strings, Arrays, Sorting`                 |[Link](https://www.codewars.com/kata/57cc79ec484cf991c900018d/python)
 | [Moves in squared strings (I)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/moves_in_squared_strings_I)                                                     | `Fundamentals, Algorithms, Strings`                      |[Link](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/python)
+| [Nth Smallest Element (Array Series #4)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/nth_smallest_element_array_series_4)                                                     | `Fundamentals, Arrays`                                   |[Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc/python)
 
 
 ## Kata 8 kyu
