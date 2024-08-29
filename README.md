@@ -383,6 +383,7 @@ This is a place where I put my Codewars solutions.
 | [Refactored Greeting](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/refactored_greeting)                                                   | `bject-oriented Programming, Refactoring`                |[Link](https://www.codewars.com/kata/5121303128ef4b495f000001/python)
 | [Unscrambled eggs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/unscrambled_eggs)                                                     | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/55ea5650fe9247a2ea0000a7/python)
 | [Character Counter](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/character_counter)                                                     | `Strings, Algorithms`                                    |[Link](https://www.codewars.com/kata/56786a687e9a88d1cf00005d/python)
+| [Building Strings From a Hash](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/building_strings_from_a_hash)                                                     | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2/python)
 
 
 ## Kata 8 kyu
