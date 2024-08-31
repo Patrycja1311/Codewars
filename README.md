@@ -384,7 +384,8 @@ This is a place where I put my Codewars solutions.
 | [Unscrambled eggs](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/unscrambled_eggs)                                                     | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/55ea5650fe9247a2ea0000a7/python)
 | [Character Counter](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/character_counter)                                                     | `Strings, Algorithms`                                    |[Link](https://www.codewars.com/kata/56786a687e9a88d1cf00005d/python)
 | [Building Strings From a Hash](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/building_strings_from_a_hash)                                                    | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2/python)
-| [All Star Code Challenge #22](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/all_star_code_challenge_22)                                                     | `Fundamentals`                                  |[Link](https://www.codewars.com/kata/5865cff66b5699883f0001aa/python)
+| [All Star Code Challenge #22](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/all_star_code_challenge_22)                                                     | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/5865cff66b5699883f0001aa/python)
+| [Number Of Occurrences](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/number_of_occurrences)                                                     | `Arrays, Fundamentals`                                   |[Link](https://www.codewars.com/kata/52829c5fe08baf7edc00122b/python)
 
 
 ## Kata 8 kyu
