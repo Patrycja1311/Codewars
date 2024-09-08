@@ -391,6 +391,7 @@ This is a place where I put my Codewars solutions.
 | [Basic Sequence Practice](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/basic_sequence_practice)                                                    | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/5436f26c4e3d6c40e5000282/python)
 | [The wheat/rice and chessboard problem](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_wheat_rice_and_chessboard_problem)                                                    | `Mathematics, Recursion, Puzzles`                        |[Link](https://www.codewars.com/kata/5b0d67c1cb35dfa10b0022c7/python)
 | [Replace every nth](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/replace_every_nth)                                                     | `Algorithms, Strings`                                    |[Link](https://www.codewars.com/kata/57fcaed83206fb15fd00027a/python)
+| [Find the Missing Number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_missing_number)                                                     | `Algorithms`                                    |[Link](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d/python)
 
 
 ## Kata 8 kyu
