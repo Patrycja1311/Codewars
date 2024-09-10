@@ -393,6 +393,7 @@ This is a place where I put my Codewars solutions.
 | [Replace every nth](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/replace_every_nth)                                                     | `Algorithms, Strings`                                    |[Link](https://www.codewars.com/kata/57fcaed83206fb15fd00027a/python)
 | [Find the Missing Number](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_missing_number)                                                     | `Algorithms`                                             |[Link](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d/python)
 | [Special Number (Special Numbers Series #5)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/special_number_special_numbers_series_5)                                                     | `Fundamentals, Mathematics`                              |[Link](https://www.codewars.com/kata/5a55f04be6be383a50000187/python)
+| [Balanced Number (Special Numbers Series #1 )](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/balanced_number_special_numbers_series_1)                                                     | `Fundamentals, Mathematics`                              |[Link](https://www.codewars.com/kata/5a4e3782880385ba68000018/python)
 
 
 ## Kata 8 kyu
