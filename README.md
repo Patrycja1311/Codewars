@@ -403,6 +403,7 @@ This is a place where I put my Codewars solutions.
 | [Drone Fly-By](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/drone_fly_by)                                               | `Fundamentals, Strings, Arrays`                          |[Link](https://www.codewars.com/kata/58356a94f8358058f30004b5/python)
 | [Search for letters](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/search_for_letters)                                               | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/52dbae61ca039685460001ae/python)
 | [Broken sequence](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/broken_sequence)                                               | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/5512e5662b34d88e44000060/python)
+| [Automorphic Number (Special Numbers Series #6)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/automorphic_number_special_numbers_series_6)                                               | `Fundamentals, Mathematics`                              |[Link](https://www.codewars.com/kata/5a58d889880385c2f40000aa/python)
 
 
 ## Kata 8 kyu
