@@ -407,6 +407,7 @@ This is a place where I put my Codewars solutions.
 | [Formatting decimal places #1](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/formatting_decimal_places_1)                                              | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/5641c3f809bf31f008000042/python)
 | [Array Leaders (Array Series #3)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/array_leaders_array_series_3)                                              | `Fundamentals, Arrays`                                   |[Link](https://www.codewars.com/kata/5a651865fd56cb55760000e0/python)
 | [Char Code Calculation](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/char_code_calculation)                                               | `Fundamentals, Arrays, Strings, Mathematics`             |[Link](https://www.codewars.com/kata/57f75cc397d62fc93d000059/python)
+| [Bingo ( Or Not )](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/bingo_or_not)                                               | `Games, Arrays, Fundamentals`                            |[Link](https://www.codewars.com/kata/5a1ee4dfffe75f0fcb000145/python)
 
 
 ## Kata 8 kyu
