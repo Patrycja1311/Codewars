@@ -408,7 +408,8 @@ This is a place where I put my Codewars solutions.
 | [Array Leaders (Array Series #3)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/array_leaders_array_series_3)                                              | `Fundamentals, Arrays`                                   |[Link](https://www.codewars.com/kata/5a651865fd56cb55760000e0/python)
 | [Char Code Calculation](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/char_code_calculation)                                               | `Fundamentals, Arrays, Strings, Mathematics`             |[Link](https://www.codewars.com/kata/57f75cc397d62fc93d000059/python)
 | [Bingo ( Or Not )](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/bingo_or_not)                                               | `Games, Arrays, Fundamentals`                            |[Link](https://www.codewars.com/kata/5a1ee4dfffe75f0fcb000145/python)
-| [Plus - minus - plus - plus - ... - Count](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/plus_minus_plus_plus_count)                                               | `Fundamentals`                            |[Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca/python)
+| [Plus - minus - plus - plus - ... - Count](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/plus_minus_plus_plus_count)                                               | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca/python)
+| [Substituting Variables Into Strings: Padded Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/substituting_variables_into_strings_padded_numbers)                                               | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/51c89385ee245d7ddf000001/python)
 
 
 ## Kata 8 kyu
