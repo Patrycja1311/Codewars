@@ -411,6 +411,7 @@ This is a place where I put my Codewars solutions.
 | [Plus - minus - plus - plus - ... - Count](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/plus_minus_plus_plus_count)                                              | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca/python)
 | [Substituting Variables Into Strings: Padded Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/substituting_variables_into_strings_padded_numbers)                                              | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/51c89385ee245d7ddf000001/python)
 | [Is n divisible by (...)?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/is_n_divisible_by)                                               | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/558ee8415872565824000007/python)
+| [Fibonacci](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/fibonacci)                                               | `Fundamentals, Algorithms`                               |[Link](https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af/python)
 
 
 ## Kata 8 kyu
