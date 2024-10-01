@@ -412,7 +412,8 @@ This is a place where I put my Codewars solutions.
 | [Substituting Variables Into Strings: Padded Numbers](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/substituting_variables_into_strings_padded_numbers)                                             | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/51c89385ee245d7ddf000001/python)
 | [Is n divisible by (...)?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/is_n_divisible_by)                                               | `Fundamentals`                                           |[Link](https://www.codewars.com/kata/558ee8415872565824000007/python)
 | [Fibonacci](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/fibonacci)                                               | `Fundamentals, Algorithms`                               |[Link](https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af/python)
-| [Credit card issuer checking](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/credit_card_issuer_checking)                                               | `Algorithms`                               |[Link](https://www.codewars.com/kata/5701e43f86306a615c001868/python)
+| [Credit card issuer checking](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/credit_card_issuer_checking)                                               | `Algorithms`                                             |[Link](https://www.codewars.com/kata/5701e43f86306a615c001868/python)
+| [Computer problem series #1: Fill the Hard Disk Drive](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/computer_problem_series_1_fill_the_hard_disk_drive)                                               | `Lists, Arrays, Fundamentals`                            |[Link](https://www.codewars.com/kata/5d49c93d089c6e000ff8428c/python)
 
 
 ## Kata 8 kyu
