@@ -416,6 +416,7 @@ This is a place where I put my Codewars solutions.
 | [Computer problem series #1: Fill the Hard Disk Drive](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/computer_problem_series_1_fill_the_hard_disk_drive)                                             | `Lists, Arrays, Fundamentals`                            |[Link](https://www.codewars.com/kata/5d49c93d089c6e000ff8428c/python)
 | [Dominant array elements](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/dominant_array_elements)                                              | `Arrays, Fundamentals`                                   |[Link](https://www.codewars.com/kata/5a04133e32b8b998dc000089/python)
 | [Hells Kitchen](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/hells_kitchen)                                               | `Fundamentals, Strings, Arrays`                          |[Link](https://www.codewars.com/kata/57d1f36705c186d018000813/python)
+| [Compare Strings by Sum of Chars](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/compare_strings_by_sum_of_chars)                                               | `Mathematics, Strings, Fundamentals`                     |[Link](https://www.codewars.com/kata/576bb3c4b1abc497ec000065/python)
 
 
 ## Kata 8 kyu
