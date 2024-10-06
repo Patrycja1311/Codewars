@@ -418,6 +418,7 @@ This is a place where I put my Codewars solutions.
 | [Hells Kitchen](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/hells_kitchen)                                               | `Fundamentals, Strings, Arrays`                          |[Link](https://www.codewars.com/kata/57d1f36705c186d018000813/python)
 | [Compare Strings by Sum of Chars](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/compare_strings_by_sum_of_chars)                                              | `Mathematics, Strings, Fundamentals`                     |[Link](https://www.codewars.com/kata/576bb3c4b1abc497ec000065/python)
 | [Numbers with this digit inside](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/numbers_with_this_digit_inside)                                               | `Mathematics, Algorithms`                                |[Link](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039/python)
+| [Find The Duplicated Number in a Consecutive Unsorted List](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/tind_the_duplicated_number_in_a_consecutive_unsorted_list)                                               | `Arrays, Algorithms`                                     |[Link](https://www.codewars.com/kata/558dd9a1b3f79dc88e000001/python)
 
 
 ## Kata 8 kyu
