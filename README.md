@@ -423,6 +423,7 @@ This is a place where I put my Codewars solutions.
 | [Count consonants](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/count_consonants)                                               | `Strings, Fundamentals`                                  |[Link](https://www.codewars.com/kata/564e7fc20f0b53eb02000106/python)
 | [Is every value in the array an array?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/is_every_value_in_the_array_an_array)                                              | `Arrays, Fundamentals`                                   |[Link](https://www.codewars.com/kata/582c81d982a0a65424000201/python)
 | [Previous multiple of three](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/previous_multiple_of_three)                                               | `Fundamentals`                                   |[Link](https://www.codewars.com/kata/61123a6f2446320021db987d/python)
+| [Chain me](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/chain_me)                                               | `Fundamentals`                                   |[Link](https://www.codewars.com/kata/54fb853b2c8785dd5e000957/python)
 
 
 ## Kata 8 kyu
