@@ -427,6 +427,7 @@ This is a place where I put my Codewars solutions.
 | [Multiples!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/multiples)                                               | `Fundamentals`                                                                       |[Link](https://www.codewars.com/kata/55a8a36703fe4c45ed00005b/python)
 | [Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/coding_meetup_6_higher_order_functions_series_can_they_code_in_the_same_language)                                              | `Functional Programming, Data Structures, Arrays, Fundamentals, Algorithms, Strings` |[Link](https://www.codewars.com/kata/58287977ef8d4451f90001a0/python)
 | [Caffeine Script](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/caffeine_script)                                               | `Fundamentals, Strings`                                                              |[Link](https://www.codewars.com/kata/5434283682b0fdb0420000e6/python)
+| [Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/extra_perfect_numbers_special_numbers_series_7)                                               | `Fundamentals, Arrays`                                                               |[Link](https://www.codewars.com/kata/5a662a02e626c54e87000123/python)
 
 
 ## Kata 8 kyu
