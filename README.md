@@ -430,6 +430,7 @@ This is a place where I put my Codewars solutions.
 | [Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/extra_perfect_numbers_special_numbers_series_7)                                              | `Fundamentals, Arrays`                                                               |[Link](https://www.codewars.com/kata/5a662a02e626c54e87000123/python)
 | [Sort Santa's Reindeer](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sort_santas_reindeer)                                               | `Sorting, Arrays, Strings, Algorithms`                                               |[Link](https://www.codewars.com/kata/52ab60b122e82a6375000bad/python)
 | [Exclamation marks series #7: Remove words from the sentence if it contains one exclamation mark](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/exclamation_marks_series_7_remove_words_from_the_sentence_if_it_contains_one_exclamation_mark)                                               | `Fundamentals, Strings, Algorithms`                                                  |[Link](https://www.codewars.com/kata/57fafb6d2b5314c839000195/python)
+| [Mirror, mirror, on the wall...](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/mirror_mirror_on_the_wall)                                               | `Algorithms, Fundamentals, Arrays`                                                   |[Link](https://www.codewars.com/kata/5f55ecd770692e001484af7d/python)
 
 
 ## Kata 8 kyu
