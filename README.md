@@ -435,6 +435,7 @@ This is a place where I put my Codewars solutions.
 | [Find the index of the second occurrence of a letter in a string](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_index_of_the_second_occurrence_of_a_letter_in_a_string)                                               | `Fundamentals, Strings`                                                              |[Link](https://www.codewars.com/kata/63f96036b15a210058300ca9/python)
 | [Even or Odd - Which is Greater?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/even_or_odd_which_is_greater)                                               | `Fundamentals`                                                                       |[Link](https://www.codewars.com/kata/57f7b8271e3d9283300000b4/python)
 | [The dropWhile Function](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_dropWhile_function)                                               | `Functional Programming, Arrays, Algorithms`                                         |[Link](https://www.codewars.com/kata/54f9c37106098647f400080a/python)
+| [Filter unused digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/filter_unused_digits)                                               | `Fundamentals, Filtering, Arrays`                                                    |[Link](https://www.codewars.com/kata/55de6173a8fbe814ee000061/python)
 
 
 ## Kata 8 kyu
