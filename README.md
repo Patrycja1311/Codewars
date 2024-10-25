@@ -436,6 +436,7 @@ This is a place where I put my Codewars solutions.
 | [Even or Odd - Which is Greater?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/even_or_odd_which_is_greater)                                               | `Fundamentals`                                                                       |[Link](https://www.codewars.com/kata/57f7b8271e3d9283300000b4/python)
 | [The dropWhile Function](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_dropWhile_function)                                               | `Functional Programming, Arrays, Algorithms`                                         |[Link](https://www.codewars.com/kata/54f9c37106098647f400080a/python)
 | [Filter unused digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/filter_unused_digits)                                               | `Fundamentals, Filtering, Arrays`                                                    |[Link](https://www.codewars.com/kata/55de6173a8fbe814ee000061/python)
+| [Test's results](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/tests_results)                                               | `Fundamentals, Lists`                                                                |[Link](https://www.codewars.com/kata/599db0a227ca9f294b0000c8/python)
 
 
 ## Kata 8 kyu
