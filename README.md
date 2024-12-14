@@ -486,6 +486,8 @@ This is a place where I put my Codewars solutions.
 | [Are they square?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/are_they_square)                                                                                                                                                              | `Arrays, Fundamentals`                                                               |[Link](https://www.codewars.com/kata/56853c44b295170b73000007/python)
 | [Show multiples of 2 numbers within a range](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/show_multiples_of_2_numbers_within_a_range)                                                                                                         | `Fundamentals`                                                               |[Link](https://www.codewars.com/kata/583989556754d6f4c700018e/python)
 | [Ninja vs Samurai: Strike](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ninja_vs_samurai_strike)                                                                                                                                              | `Fundamentals`                                                               |[Link](https://www.codewars.com/kata/583989556754d6f4c700018e/python)
+| [Float Precision](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/float_precision)                                                                                                                                              | `Fundamentals`                                                               |[Link](https://www.codewars.com/kata/5143d157ceb46d6a61000001/train/python)
+
 
 
 ## Kata 8 kyu
