@@ -513,7 +513,7 @@ This is a place where I put my Codewars solutions.
 | [Ghostbusters (whitespace removal)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ghostbusters_whitespace_removal)                                                                                                                            | `Fundamentals, Regular Expressions, Strings`                                         |[Link](https://www.codewars.com/kata/5668e3800636a6cd6a000018/python)
 | [Common Substrings](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/common_substrings)                                                                                                                                                           | `Strings, Algorithms`                                                                |[Link](https://www.codewars.com/kata/5669a5113c8ebf16ed00004c/python)
 | [Inertial Array](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/inertial_array)                                                                                                                                                            | `Arrays, Fundamentals`                                                               |[Link](https://www.codewars.com/kata/59a151c53f64cdd94c00008f/python)
-
+| [Get row from alphabetical sequence](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/get_row_from_alphabetical_sequence)                                                                                                                                                            | `Strings, Fundamentals`                                                              |[Link](https://www.codewars.com/kata/5830195755f28edad4000081/python)
 
 
 ## Kata 8 kyu
