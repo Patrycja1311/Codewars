@@ -593,6 +593,8 @@ This is a place where I put my Codewars solutions.
 | [Words to sentence](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/words_to_sentence)                                                                                                                                                           | `Fundamentals`                                                                       |[Link](https://www.codewars.com/kata/57a06005cf1fa5fbd5000216/python)
 | [Holiday II - Plane Seating](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/holiday_ii_plane_seating)                                                                                                                                           | `Fundamentals`                                                                       |[Link](https://www.codewars.com/kata/57e8f757085f7c7d6300009a/train/python)
 | [Counting in the Amazon](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/counting_in_the_amazon)                                                                                                                                                 | `Fundamentals, Puzzles`                                                              |[Link](https://www.codewars.com/kata/55b95c76e08bd5eef100001e/train/python)
+| [Binary sXORe](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/binary_sxore)                                                                                                                                                                     | `Binary, Algorithms`                                                                 |[Link](https://www.codewars.com/kata/56d3e702fc231fdf72001779/train/python)
+
 
 
 ## Kata 8 kyu
