@@ -597,6 +597,8 @@ This is a place where I put my Codewars solutions.
 | [The Solar System - Planet Mnemonic](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_solar_system_planet_mnemonic)                                                                                                                          | `Binary, Algorithms`                                                                 |[Link](https://www.codewars.com/kata/56d3e702fc231fdf72001779/train/python)
 | [Genetic Algorithm Series - #1 Generate](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/genetic_algorithm_series_1_generate)                                                                                                                   | `Binary, Algorithms`                                                                 |[Link](https://www.codewars.com/kata/56d3e702fc231fdf72001779/train/python)
 | [Number climber](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/number_climber)                                                                                                                    | `Fundamentals`                                                                 |[Link](https://www.codewars.com/kata/559760bae64c31556c00006b/train/python)
+| [Count number of zeros from 1 to N](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/count_number_of_zeros_from_1_to_n)                                                                                                                    | `Algorithms`                                                                 |[Link](https://www.codewars.com/kata/557cffec8c3e8e55cc00010f/train/python)
+
 
 
 
