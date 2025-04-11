@@ -603,7 +603,7 @@ This is a place where I put my Codewars solutions.
 | [number with 3 roots.](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/number_with_3_roots)                                                                                                                                                      | `Algorithms`                                                                         |[Link](https://www.codewars.com/kata/5932c94f6aa4d1d786000028/python)
 | [Find the sum of the roots of a quadratic equation](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_sum_of_the_roots_of_a_quadratic_equation)                                                                                           | `Mathematics, Fundamentals`                                                          |[Link](https://www.codewars.com/kata/57d448c6ba30875437000138/python)
 | [Pluck](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/pluck)                                                                                                                                                                                   | `Functional Programming, Arrays, Fundamentals`                                       |[Link](https://www.codewars.com/kata/530017aac7c0f49926000084/python)
-
+| [Composing squared strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/composing_squared_strings)                                                                                                                                                                                   | `Fundamentals`                                       |[Link](https://www.codewars.com/kata/56f253dd75e340ff670002ac/python)
 
 
 
