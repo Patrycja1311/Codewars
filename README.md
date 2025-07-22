@@ -703,6 +703,8 @@ This is a place where I put my Codewars solutions.
 | [Calculate Parity bit!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/calculate_parity_bit)                                                                                                                                                                                     | `Fundamentals`                                                           |[Link](https://www.codewars.com/kata/5df261342964c80028345a0a/python)
 | [Split By Value](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/split_by_value)                                                                                                                                                                                     | `Algorithms`                                                           |[Link](https://www.codewars.com/kata/5a433c7a8f27f23bb00000dc/python)
 | [Square Pi's](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/square_pis)                                                                                                                                                                                     | `Algorithms`                                                           |[Link](https://www.codewars.com/kata/5cd12646cf44af0020c727dd/python)
+| [Mispelled word](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/mispelled_word)                                                                                                                                                                                     | `Strings, Arrays, Fundamentals`                                                           |[Link](https://www.codewars.com/kata/5892595f190ca40ad0000095/python)
+
 
 
 
