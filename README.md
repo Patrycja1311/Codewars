@@ -719,8 +719,7 @@ This is a place where I put my Codewars solutions.
 | [Interactive Dictionary](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/interactive_dictionary)                                                                                                                                                                                     | `Fundamentals`                                                           |[Link](https://www.codewars.com/kata/57a93f93bb9944516d0000c1/python)
 | [sPoNgEbOb MeMe](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/spongebob_meme)                                                                                                                                                                                     | `Fundamentals, Strings`                                                           |[Link](https://www.codewars.com/kata/5982619d2671576e90000017/python)
 | [Failed Sort - Bug Fixing #4](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/failed_sort_bug_fixing_4)                                                                                                                                                                                     | `Debugging, Sorting`                                                           |[Link](https://www.codewars.com/kata/55c7f90ac8025ebee1000062/python)
-
-
+| [Simple fibonacci strings](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_fibonacci_strings)                                                                                                                                                                                     | `Algorithms`                                                           |[Link](https://www.codewars.com/kata/5aa39ba75084d7cf45000008/python)
 
 
 
