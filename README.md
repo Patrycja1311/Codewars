@@ -891,5 +891,7 @@ This is a place where I put my Codewars solutions.
 | [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/101_Dalmatians_squash_the_bugs_not_the_dogs)                                                                           | `FUNDAMENTALS, DEBUGGING`                     |[Link](https://www.codewars.com/kata/56f6919a6b88de18ff000b36/python)
 | [String cleaning](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/string_cleaning)                                                                                                                                       | `FUNDAMENTALS, DEBUGGING`                     |[Link](https://www.codewars.com/kata/56f6919a6b88de18ff000b36/python)
 | [How many lightsabers do you own?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/how_many_lightsabers_do_you_own)                                                                           | `FUNDAMENTALS`                     |[Link](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/python)
+| [Circles in Polygons](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/circles_in_polygons)                                                                           | `MATHENATICS, PUZZLES`                    |[Link](https://www.codewars.com/kata/5a026a9cffe75fbace00007f/python)
+
 
 
