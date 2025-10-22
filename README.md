@@ -780,6 +780,7 @@ This is a place where I put my Codewars solutions.
 | [The Poet And The Pendulum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/the_poet_and_the_pendulum)                                                                                                                                                                                 | `Fundamentals, Arrays, Algorithms, Performance`                                                           |[Link](https://www.codewars.com/kata/5bd776533a7e2720c40000e5/python)
 | [Remove B M W](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/remove_b_m_w)                                                                           | `Fundamentals, Strings Regular Expressions`                    |[Link](https://www.codewars.com/kata/59de795c289ef9197f000c48/python)
 | [Mean Means](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/mean_means)                                                                           | `Mathematics, Algorithms, Algebra`                    |[Link](https://www.codewars.com/kata/57c6b44f58da9ea6c20003da/python)
+| [Slope of a Line](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/slope_of_a_line)                                                                           | `Graphs, Mathematics, Geometry, Algebra, Fundamentals`                    |[Link](https://www.codewars.com/kata/53222010db0eea35ad000001/python)
 
 
 
