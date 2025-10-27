@@ -785,6 +785,7 @@ This is a place where I put my Codewars solutions.
 | [Product of the main diagonal of a square matrix](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/product_of_the_main_diagonal_of_a_square_matrix)                                                                           | `Matrix, Linear Algebra, Algorithms`                    |[Link](https://www.codewars.com/kata/551204b7509063d9ba000b45/python)
 | [Binary to string](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/binary_to_string)                                                                           | `Binary, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/5ab3495595df9ec78f0000b4/python)
 | [Set the Alarms Up](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/set_the_alarms_up)                                                                           | `Fundamentals, Strings`                    |[Link](https://www.codewars.com/kata/68c31c23f0aee823d84cdd42/python)
+| [Santa's Naughty List](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/santas_naughty_list)                                                                           | `Lists, Sorting, Fundamentals`                    |[Link](https://www.codewars.com/kata/5a0b4dc2ffe75f72f70000ef/python)
 
 
 
