@@ -788,6 +788,7 @@ This is a place where I put my Codewars solutions.
 | [Santa's Naughty List](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/santas_naughty_list)                                                                           | `Lists, Sorting, Fundamentals`                    |[Link](https://www.codewars.com/kata/5a0b4dc2ffe75f72f70000ef/python)
 | [Find the longest gap!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_the_longest_gap)                                                                           | `Regular Expressions, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/55b86beb1417eab500000051/python)
 | [Method For Counting Total Occurence Of Specific Digits](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/method_for_counting_total_occurence_of_specific_digits)                                                                           | `Fundamentals, Algorithms, Data Structures`                    |[Link](https://www.codewars.com/kata/56311e4fdd811616810000ce/python)
+| [Which string is worth more?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/which_string_is_worth_more)                                                                           | `Algorithms, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/5840586b5225616069000001/python)
 
 
 
