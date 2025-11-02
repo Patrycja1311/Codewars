@@ -791,6 +791,7 @@ This is a place where I put my Codewars solutions.
 | [Which string is worth more?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/which_string_is_worth_more)                                                                           | `Algorithms, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/5840586b5225616069000001/python)
 | [Swap the head and the tail](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/swap_the_head_and_the_tail)                                                                           | `Algorithms, Arrays`                    |[Link](https://www.codewars.com/kata/5a34f087c5e28462d9000082/python)
 | [Fusion Chamber Shutdown](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/fusion_chamber_shutdown)                                                                           | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5fde1ea66ba4060008ea5bd9/python)
+| [Sort an array by value and index](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sort_an_array_by_value_and_index)                                                                           | `Arrays, Algorithms, Sorting`                    |[Link](https://www.codewars.com/kata/58e0cb3634a3027180000040/python)
 
 
 
