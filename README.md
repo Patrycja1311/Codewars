@@ -794,6 +794,7 @@ This is a place where I put my Codewars solutions.
 | [Sort an array by value and index](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sort_an_array_by_value_and_index)                                                                           | `Arrays, Algorithms, Sorting`                    |[Link](https://www.codewars.com/kata/58e0cb3634a3027180000040/python)
 | [Password Check - Binary to String](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/password_check_binary_to_string)                                                                           | `Binary, Strings, Arrays, Fundamentals`                    |[Link](https://www.codewars.com/kata/5a731b36e19d14400f000c19/python)
 | [Linked Lists - Append](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/linked_lists_append)                                                                           | `Linked Lists, Data Structures Fundamentals`                    |[Link](https://www.codewars.com/kata/55d17ddd6d7868493e000074/python)
+| [If you can't beat 'em, join 'em!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/if_you_cant_beatem_joinem)                                                                           | `Fundamentals, Arrays, Algorithms, Puzzles`                    |[Link](https://www.codewars.com/kata/5d37899a3b34c6002df273ee/python)
 
 
 
