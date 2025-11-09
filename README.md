@@ -798,6 +798,7 @@ This is a place where I put my Codewars solutions.
 | [Multiply array values and filter non-numeric](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/multiply_array_values_and_filter_non_numeric)                                                                           | `Arrays, Algorithms`                    |[Link](https://www.codewars.com/kata/55ed875819ae85ca8b00005c/python)
 | [Genetic Algorithm Series - #3 Crossover](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/genetic_algorithm_series_3_crossover)                                                                           | `Strings, Algorithms, Genetic Algorithms`                    |[Link](https://www.codewars.com/kata/567d71b93f8a50f461000019/python)
 | [Sort rectangles and circles by area II](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sort_rectangles_and_circles_by_area_II)                                                                           | `Fundamentals, Algorithms, Sorting, Mathematics, Geometry`                    |[Link](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5/python)
+| [Russian postal code checker](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/russian_postal_code_checker)                                                                           | `Regular Expressions, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/552e45cc30b0dbd01100001a/python)
 
 
 
