@@ -799,6 +799,7 @@ This is a place where I put my Codewars solutions.
 | [Genetic Algorithm Series - #3 Crossover](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/genetic_algorithm_series_3_crossover)                                                                           | `Strings, Algorithms, Genetic Algorithms`                    |[Link](https://www.codewars.com/kata/567d71b93f8a50f461000019/python)
 | [Sort rectangles and circles by area II](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/sort_rectangles_and_circles_by_area_II)                                                                           | `Fundamentals, Algorithms, Sorting, Mathematics, Geometry`                    |[Link](https://www.codewars.com/kata/5a1ebc2480171f29cf0000e5/python)
 | [Russian postal code checker](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/russian_postal_code_checker)                                                                           | `Regular Expressions, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/552e45cc30b0dbd01100001a/python)
+| [Exclamation marks series #5: Remove all exclamation marks from the end of words](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/exclamation_marks_series_5_remove_all_exclamation_marks_from_the_end_of_words)                                                                           | `Strings, Regular Expressions, Fundamentals`                    |[Link](https://www.codewars.com/kata/57faf32df815ebd49e000117/python)
 
 
 
