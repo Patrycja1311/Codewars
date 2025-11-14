@@ -803,6 +803,7 @@ This is a place where I put my Codewars solutions.
 | [Thinkful - String Drills: Areacode extractor](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/thinkful_string_drills_areacode_extractor)                                                                           | `Strings, Regular Expressions, Fundamentals`                    |[Link](https://www.codewars.com/kata/585a36b445376cbc22000072/python)
 | [Find how many times did a team from a given country win the Champions League?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_how_many_times_did_a_team_from_a_given_country_win_the_champions_league)                                                                           | `Strings, Arrays, Data Structures, Algorithms`                    |[Link](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9/python)
 | [Currying functions: multiply all elements in an array](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/currying_functions_multiply_all_elements_in_an_array)                                                                           | `Functional Programming, Fundamentals`                    |[Link](https://www.codewars.com/kata/586909e4c66d18dd1800009b/python)
+| [Debug Basic Calculator](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/debug_basic_calculator)                                                                           | `Fundamentals, Debugging`                    |[Link](https://www.codewars.com/kata/56368f37d464c0a43c00007f/python)
 
 
 
