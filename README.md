@@ -804,6 +804,7 @@ This is a place where I put my Codewars solutions.
 | [Find how many times did a team from a given country win the Champions League?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/find_how_many_times_did_a_team_from_a_given_country_win_the_champions_league)                                                                           | `Strings, Arrays, Data Structures, Algorithms`                    |[Link](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9/python)
 | [Currying functions: multiply all elements in an array](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/currying_functions_multiply_all_elements_in_an_array)                                                                           | `Functional Programming, Fundamentals`                    |[Link](https://www.codewars.com/kata/586909e4c66d18dd1800009b/python)
 | [Debug Basic Calculator](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/debug_basic_calculator)                                                                           | `Fundamentals, Debugging`                    |[Link](https://www.codewars.com/kata/56368f37d464c0a43c00007f/python)
+| [MOD 256 without the MOD operator](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/mod_256_without_the_mod_operator)                                                                           | `Algorithms, Fundamentals, Logic, Mathematics, Restricted, Puzzles`                    |[Link](https://www.codewars.com/kata/581e1d083a4820eb4f00004f/python)
 
 
 
