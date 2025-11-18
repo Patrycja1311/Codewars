@@ -806,6 +806,7 @@ This is a place where I put my Codewars solutions.
 | [Debug Basic Calculator](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/debug_basic_calculator)                                                                           | `Fundamentals, Debugging`                    |[Link](https://www.codewars.com/kata/56368f37d464c0a43c00007f/python)
 | [MOD 256 without the MOD operator](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/mod_256_without_the_mod_operator)                                                                           | `Algorithms, Fundamentals, Logic, Mathematics, Restricted, Puzzles`                    |[Link](https://www.codewars.com/kata/581e1d083a4820eb4f00004f/python)
 | [Bits Battle](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/bits_battle)                                                                           | `Fundamentals, Binary, Bits`                    |[Link](https://www.codewars.com/kata/58856a06760b85c4e6000055/python)
+| [Are there doubles?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/are_there_doubles)                                                                           | `Regular Expressions, Fundamentals`                    |[Link](https://www.codewars.com/kata/56a24b4d9f3671584d000039/python)
 
 
 
