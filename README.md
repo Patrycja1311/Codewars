@@ -808,6 +808,7 @@ This is a place where I put my Codewars solutions.
 | [Bits Battle](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/bits_battle)                                                                           | `Fundamentals, Binary, Bits`                    |[Link](https://www.codewars.com/kata/58856a06760b85c4e6000055/python)
 | [Are there doubles?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/are_there_doubles)                                                                           | `Regular Expressions, Fundamentals`                    |[Link](https://www.codewars.com/kata/56a24b4d9f3671584d000039/python)
 | [Eliminate the intruders! Bit manipulation](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/eliminate_the_intruders_bit_manipulation)                                                                           | `Bits, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/5a0d38c9697598b67a000041/python)
+| [Is valid identifier?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/is_valid_identifier)                                                                           | `Fundamentals, Regular Expressions, Strings`                    |[Link](https://www.codewars.com/kata/563a8656d52a79f06c00001f/python)
 
 
 
