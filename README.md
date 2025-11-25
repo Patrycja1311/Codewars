@@ -813,6 +813,7 @@ This is a place where I put my Codewars solutions.
 | [Will you survive the zombie onslaught?](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/will_you_survive_the_zombie_onslaught)                                                                           | `Games, Fundamentals`                                                                |[Link](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74/python)
 | [Point in a unit circle](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/point_in_a_unit_circle)                                                                           | `Mathematics, Fundamentals`                                                          |[Link](https://www.codewars.com/kata/58da7ae9b340a2440500009c/python)
 | [Odd or Even? Determine that!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/odd_or_even_determine_that)                                                                           | `Mathematics, Fundamentals`                    |[Link](https://www.codewars.com/kata/619f200fd0ff91000eaf4a08/python)
+| [Complete The Pattern #5 - Even Ladder](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/complete_the_pattern_5_even_ladder)                                                                           | `ASCII Art, Fundamentals`                    |[Link](https://www.codewars.com/kata/55749101ae1cf7673800003e/python)
 
 
 
