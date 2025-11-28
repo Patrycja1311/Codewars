@@ -816,6 +816,7 @@ This is a place where I put my Codewars solutions.
 | [Complete The Pattern #5 - Even Ladder](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/complete_the_pattern_5_even_ladder)                                                                           | `ASCII Art, Fundamentals`                    |[Link](https://www.codewars.com/kata/55749101ae1cf7673800003e/python)
 | [Pig Atinlay](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/pig_atinlay)                                                                           | `Fundamentals, Strings`                    |[Link](https://www.codewars.com/kata/58702c0ca44cfc50dc000245/python)
 | [Guess the Sequence](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/guess_the_sequence)                                                                           | `Puzzles, Algorithms`                    |[Link](https://www.codewars.com/kata/5b45e4b3f41dd36bf9000090/python)
+| [reverseIt](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/reverseIt)                                                                           | `Fundamentals`                    |[Link](https://www.codewars.com/kata/557a2c136b19113912000010/python)
 
 
 
