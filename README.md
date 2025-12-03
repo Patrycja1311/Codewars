@@ -820,6 +820,7 @@ This is a place where I put my Codewars solutions.
 | [Password validator](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/password_validator)                                                                           | `Fundamentals, Regular Expressions Algorithms`                    |[Link](https://www.codewars.com/kata/56a921fa8c5167d8e7000053/python)
 | [Zebulan's Nightmare](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/zebulans_nightmare)                                                                           | `Fundamentals`                    |[Link](https://www.codewars.com/kata/570fd7ad34e6130455001835/python)
 | [I'm everywhere!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/im_everywhere)                                                                           | `Fundamentals`                    |[Link](https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98/python)
+| [Complete The Pattern #6 - Odd Ladder](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/complete_the_pattern_6_odd_ladder)                                                                           | `ASCII Art Fundamentals`                    |[Link](https://www.codewars.com/kata/5574940eae1cf7d520000076/python)
 
 
 
