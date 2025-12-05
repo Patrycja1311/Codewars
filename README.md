@@ -822,6 +822,7 @@ This is a place where I put my Codewars solutions.
 | [I'm everywhere!](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/im_everywhere)                                                                           | `Fundamentals`                                                                       |[Link](https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98/python)
 | [Complete The Pattern #6 - Odd Ladder](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/complete_the_pattern_6_odd_ladder)                                                                           | `ASCII Art Fundamentals`                                                             |[Link](https://www.codewars.com/kata/5574940eae1cf7d520000076/python)
 | [Comfortable words](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/comfortable_words)                                                                           | `Strings, Algorithms`                                                                |[Link](https://www.codewars.com/kata/56684677dc75e3de2500002b/python)
+| [Multiplication - Generators #2](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/multiplication_generators_2)                                                                           | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5637ead70013386e30000027/python)
 
 
 
