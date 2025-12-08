@@ -825,6 +825,7 @@ This is a place where I put my Codewars solutions.
 | [Multiplication - Generators #2](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/multiplication_generators_2)                                                                           | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5637ead70013386e30000027/python)
 | [Red Knight](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/red_knight)                                                                           | `Puzzles, Algorithms, Fundamentals`                    |[Link](https://www.codewars.com/kata/5fc4349ddb878a0017838d0f/python)
 | [GA-DE-RY-PO-LU-KI cypher](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/gd_de_ry_po_lu_ki_cypher)                                                                           | `Fundamentals, Ciphers, Cryptography`                    |[Link](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f/python)
+| [Interlocking Binary Pairs](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/interlocking_binary_pairs)                                                                           | `Binary, Bits, Algorithms`                    |[Link](https://www.codewars.com/kata/628e3ee2e1daf90030239e8a/python)
 
 
 
