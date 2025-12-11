@@ -828,6 +828,7 @@ This is a place where I put my Codewars solutions.
 | [Interlocking Binary Pairs](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/interlocking_binary_pairs)                                                                           | `Binary, Bits, Algorithms`                    |[Link](https://www.codewars.com/kata/628e3ee2e1daf90030239e8a/python)
 | [Negation of a Value](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/negation_of_a_value)                                                                           | `Logic, Algorithms, Fundamentals`                    |[Link](https://www.codewars.com/kata/58f6f87a55d759439b000073/python)
 | [Diagonals sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/diagonals_sum)                                                                           | `Matrix, Algorithms`                    |[Link](https://www.codewars.com/kata/5592fc599a7f40adac0000a8/python)
+| ['x' marks the spot.](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/x_marks_the_spot)                                                                           | `Fundamentals, Arrays, Matrix`                    |[Link](https://www.codewars.com/kata/5777fe3f355edbf0a5000d11/python)
 
 
 
