@@ -829,6 +829,7 @@ This is a place where I put my Codewars solutions.
 | [Negation of a Value](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/negation_of_a_value)                                                                           | `Logic, Algorithms, Fundamentals`                    |[Link](https://www.codewars.com/kata/58f6f87a55d759439b000073/python)
 | [Diagonals sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/diagonals_sum)                                                                           | `Matrix, Algorithms`                    |[Link](https://www.codewars.com/kata/5592fc599a7f40adac0000a8/python)
 | ['x' marks the spot.](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/x_marks_the_spot)                                                                           | `Fundamentals, Arrays, Matrix`                    |[Link](https://www.codewars.com/kata/5777fe3f355edbf0a5000d11/python)
+| [Unflatten a list (Easy)](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/unflatten_a_list_easy)                                                                           | `Mathematics, Arrays, Algorithms`                    |[Link](https://www.codewars.com/kata/57e2dd0bec7d247e5600013a/python)
 
 
 
