@@ -832,6 +832,7 @@ This is a place where I put my Codewars solutions.
 | [Unflatten a list (Easy)](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/unflatten_a_list_easy)                                                                                                                                                 | `Mathematics, Arrays, Algorithms`                    |[Link](https://www.codewars.com/kata/57e2dd0bec7d247e5600013a/python)
 | [[Code Golf] Return Odd No Matter What](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/code_golf_return_odd_no_matter_what)                                                                                                                     | `Fundamentals, Restricted, Algorithms`                    |[Link](https://www.codewars.com/kata/5f882dcc272e7a00287743f5/python)
 | [Next Prime](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/next_prime)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/58e230e5e24dde0996000070/python)
+| [Four/Seven](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/four_seven)                                                                                                                                                                         | `Puzzles`                    |[Link](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0/python)
 
 
 
