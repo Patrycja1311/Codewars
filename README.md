@@ -834,6 +834,7 @@ This is a place where I put my Codewars solutions.
 | [Next Prime](https://github.com/Patrycja1311/Codewars/tree/master/kata_8kyu/next_prime)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/58e230e5e24dde0996000070/python)
 | [Four/Seven](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/four_seven)                                                                                                                                                                         | `Puzzles`                    |[Link](https://www.codewars.com/kata/5ff50f64c0afc50008861bf0/python)
 | [Club Doorman](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/club_doorman)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5c563cb78dac1951c2d60f01)
+| [Decoding a message](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/decoding_a_message)                                                                                                                                                                         | `Puzzles, Algorithms, Cryptography, Security, Games`                    |[Link](https://www.codewars.com/kata/565b9d6f8139573819000056/python)
 
 
 
