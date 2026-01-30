@@ -877,6 +877,8 @@ This is a place where I put my Codewars solutions.
 | [Convert Integer to Binary](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/convert_integer_to_binary)                                                                                                                                                                         | `Binary, Fundamentals`                    |[Link](https://www.codewars.com/kata/55606aeebf1f0305f900006f/python)
 | [Reverse and Invert](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/reverse_and_invert)                                                                                                                                                                         | `Lists, Fundamentals`                    |[Link](https://www.codewars.com/kata/5899e054aa1498da6b0000cc/python)
 | [Some (but not all)](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/some_but_not_all)                                                                                                                                                                         | `Lists, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/60dda5a66c4cf90026256b75/python)
+| [Nothing special](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/nothing_special)                                                                                                                                                                         | `Fundamentals, Regular Expressions`                    |[Link](https://www.codewars.com/kata/57029e77005264a3b9000eb5/python)
+
 
 
 
