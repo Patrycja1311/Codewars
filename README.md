@@ -940,7 +940,7 @@ This is a place where I put my Codewars solutions.
 | [Next Palindromic Number.](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/next_palindromic_number)                                                                                                                                                                         | `Fundamentals, Data Structures, Algorithms, Mathematics, LogicStrings`                    |[Link](https://www.codewars.com/kata/56a6ce697c05fb4667000029/python)
 | [Return pyramids](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/return_pyramids)                                                                                                                                                                         | `Strings, Algorithms, ASCII Art, Puzzles`                    |[Link](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b/python)
 | [Zero Terminated Sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/zero_terminated_sum)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5a2d70a6f28b821ab4000004/python)
-
+| [Print a Rectangle Using Asterisks](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/print_a_rectangle_using_asterisks)                                                                                                                                                                         | `Strings, ASCII Art, Algorithms`                    |[Link](https://www.codewars.com/kata/5937ae46377144bb2f000029/python)
 
 
 
