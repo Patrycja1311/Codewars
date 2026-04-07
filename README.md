@@ -945,7 +945,7 @@ This is a place where I put my Codewars solutions.
 | [char_to_ascii](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/char_to_ascii)                                                                                                                                                                         | `Strings, Parsing, Fundamentals`                    |[Link](https://www.codewars.com/kata/55e9529cbdc3b29d8c000016/python)
 | [Which triangle is that?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/which_triangle_is_that)                                                                                                                                                                         | `Geometry, Algorithms`                    |[Link](https://www.codewars.com/kata/564d398e2ecf66cec00000a9/python)
 | [Minimum Perimeter of a Rectangle](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/minimum_perimeter_of_a_rectangle)                                                                                                                                                                         | `Fundamentals, Algorithms`                    |[Link](https://www.codewars.com/kata/5826f54cc60c7e5266000baf/python)
-
+| [Hex Word Sum](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/hex_word_sum)                                                                                                                                                                         | `Fundamentals, Strings`                    |[Link](https://www.codewars.com/kata/5c46ea433dd41b19af1ca3b3/python)
 
 
 
