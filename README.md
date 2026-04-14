@@ -952,6 +952,8 @@ This is a place where I put my Codewars solutions.
 | [80's Kids #3: Punky Brewster's Socks](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/80s_kids_3_punky_brewsters_socks)                                                                                                                                                                         | `Fundamentals, Algorithms, Arrays`                    |[Link](https://www.codewars.com/kata/5662292ee7e2da24e900012f/python)
 | [Weight of its Contents](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/weight_of_its_contents)                                                                                                                                                                         | `Algorithms, Mathematics`                    |[Link](https://www.codewars.com/kata/53921994d8f00b93df000bea/python)
 | [Ski Jump](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ski_jump)                                                                                                                                                                         | `Fundamentals, Strings, Arrays, Mathematics`                    |[Link](https://www.codewars.com/kata/57ed7214f670e99f7a000c73/python)
+| [Asterisk it](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/asterisk_it)                                                                                                                                                                         | `Strings, Algorithms`                    |[Link](https://www.codewars.com/kata/5888cba35194f7f5a800008b/python)
+
 
 
 
