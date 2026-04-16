@@ -954,7 +954,7 @@ This is a place where I put my Codewars solutions.
 | [Ski Jump](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ski_jump)                                                                                                                                                                         | `Fundamentals, Strings, Arrays, Mathematics`                    |[Link](https://www.codewars.com/kata/57ed7214f670e99f7a000c73/python)
 | [Asterisk it](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/asterisk_it)                                                                                                                                                                         | `Strings, Algorithms`                    |[Link](https://www.codewars.com/kata/5888cba35194f7f5a800008b/python)
 | [Product ID from URL](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/product_id_from_url)                                                                                                                                                                         | `Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/5e2c7639b5d728001489d910/python)
-
+| [Cat and Mouse - 2D Version](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/cat_and_mouse_2d_version)                                                                                                                                                                         | `Graph Theory, Algorithms`                    |[Link](https://www.codewars.com/kata/57f8842367c96a89dc00018e/python)
 
 
 
