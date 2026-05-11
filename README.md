@@ -979,6 +979,8 @@ This is a place where I put my Codewars solutions.
 | [Sir , showMe yourID](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/sir_showme_yourid)                                                                                                                                                                         | `Regular Expressions, Strings, Fundamentals`                    |[Link](https://www.codewars.com/kata/574c51aa3e4ea6de22001363/python)
 | [Euclidean distance in n dimensions](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/euclidean_distance_in_n_dimensions)                                                                                                                                                                         | `Mathematics, Algorithms, Fundamentals`                    |[Link](https://www.codewars.com/kata/595877be60d17855980013d3/python)
 | [Set Reducer](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/set_reducer)                                                                                                                                                                         | `Recursion, Algorithms, Logic, Arrays`                    |[Link](https://www.codewars.com/kata/63cbe409959401003e09978b/python)
+| [London CityHacker](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/london_cityhacker)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5bce125d3bb2adff0d000245/python)
+
 
 
 
