@@ -998,6 +998,7 @@ This is a place where I put my Codewars solutions.
 | [Grid blast](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/grid_blast)                                                                                                                                                                         | `Fundamentals, Arrays`                    |[Link](https://www.codewars.com/kata/54fdfe14762e2edf4a000a33/python)
 | [Find the majority](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/find_the_majority)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5af974846bf32304a2000e98/python)
 | [Simple Fun #179: Fraction](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/simple_fun_179_fraction)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/58b8db810f40ea7788000126/python)
+| [Xmas Tree](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/xmas_tree)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/577c349edf78c178a1000108/python)
 
 
 
