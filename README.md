@@ -1004,6 +1004,7 @@ This is a place where I put my Codewars solutions.
 | [What comes after?](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/what_comes_after)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/590f5b4a7bbb3e246000007d/python)
 | [Survive the attack](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/survive_the_attack)                                                                                                                                                                         | `Arrays`                    |[Link](https://www.codewars.com/kata/634d0f7c562caa0016debac5/python)
 | [Player Contact Manager](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/player_contact_manager)                                                                                                                                                                         | `Arrays`                    |[Link](https://www.codewars.com/kata/5b203de891c7469b520000b4/python)
+| [Password System](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/password_system)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/57a23e3753ba332b8e0008da/python)
 
 
 
