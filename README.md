@@ -1031,6 +1031,7 @@ This is a place where I put my Codewars solutions.
 | [Circle area inside square](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/circle_area_inside_square)                                                                                                                                                                         | `Mathematics, Geometry, Algorithms`                    |[Link](https://www.codewars.com/kata/5899aa695401a83a5c0000c4/python)
 | [Only one](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/only_one)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/5734c38da41454b7f700106e/python)
 | [Grains](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/grains)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/55f7eb009e6614447b000099/python)
+| [Alternate Logic](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/alternate_logic)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/58f625e20290fb29c3000056/python)
 
 
 
