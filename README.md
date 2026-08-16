@@ -1071,7 +1071,7 @@ This is a place where I put my Codewars solutions.
 | [Ranking position](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/ranking_position)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/5c784110bfe2ef660cb90369/python)
 | [HTML Generator](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/html_generator)                                                                                                                                                                         | `Functional Programming, Puzzles`                    |[Link](https://www.codewars.com/kata/54eecc187f9142cc4600119e/python)
 | [Tally it up](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/tally_it_up)                                                                                                                                                                         | `Algorithms`                    |[Link](https://www.codewars.com/kata/5630d1747935943168000013/python)
-
+| [Re-organize the weapons!](https://github.com/Patrycja1311/Codewars/tree/master/kata_7kyu/re_organize_the_weapons)                                                                                                                                                                         | `Fundamentals`                    |[Link](https://www.codewars.com/kata/5470ae03304c1250b4000e57/python)
 
 
 
